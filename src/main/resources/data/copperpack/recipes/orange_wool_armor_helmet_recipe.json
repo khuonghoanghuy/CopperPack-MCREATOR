@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:orange_wool"
+    },
+    "1": {
+      "item": "minecraft:orange_wool"
+    },
+    "2": {
+      "item": "minecraft:orange_wool"
+    },
+    "3": {
+      "item": "minecraft:orange_wool"
+    },
+    "5": {
+      "item": "minecraft:orange_wool"
+    }
+  },
+  "result": {
+    "item": "copperpack:orange_wool_armor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "copperpack:blocks/healthyflower",
+    "particle": "copperpack:blocks/healthyflower"
+  }
+}

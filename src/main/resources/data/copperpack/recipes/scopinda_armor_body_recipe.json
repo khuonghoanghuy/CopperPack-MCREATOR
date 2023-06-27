@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:scopinda"
+    },
+    "2": {
+      "item": "copperpack:scopinda"
+    },
+    "3": {
+      "item": "copperpack:scopinda"
+    },
+    "4": {
+      "item": "copperpack:scopinda"
+    },
+    "5": {
+      "item": "copperpack:scopinda"
+    },
+    "6": {
+      "item": "copperpack:scopinda"
+    },
+    "7": {
+      "item": "copperpack:scopinda"
+    },
+    "8": {
+      "item": "copperpack:scopinda"
+    }
+  },
+  "result": {
+    "item": "copperpack:scopinda_armor_chestplate",
+    "count": 1
+  }
+}

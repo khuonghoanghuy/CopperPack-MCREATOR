@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "copperpack:blacky_block"
+    }
+  ],
+  "result": {
+    "item": "copperpack:blacky",
+    "count": 9
+  }
+}

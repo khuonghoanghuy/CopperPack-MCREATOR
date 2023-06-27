@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:icoly"
+    },
+    "2": {
+      "item": "copperpack:icoly"
+    },
+    "3": {
+      "item": "copperpack:icoly"
+    },
+    "4": {
+      "item": "copperpack:icoly"
+    },
+    "5": {
+      "item": "copperpack:icoly"
+    },
+    "6": {
+      "item": "copperpack:icoly"
+    },
+    "7": {
+      "item": "copperpack:icoly"
+    },
+    "8": {
+      "item": "copperpack:icoly"
+    }
+  },
+  "result": {
+    "item": "copperpack:icoly_armor_chestplate",
+    "count": 1
+  }
+}

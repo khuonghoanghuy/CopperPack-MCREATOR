@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:coppy"
+    },
+    "1": {
+      "item": "copperpack:coppy"
+    },
+    "2": {
+      "item": "copperpack:coppy"
+    },
+    "3": {
+      "item": "copperpack:coppy"
+    },
+    "4": {
+      "item": "copperpack:coppy"
+    },
+    "5": {
+      "item": "copperpack:coppy"
+    },
+    "6": {
+      "item": "copperpack:coppy"
+    },
+    "7": {
+      "item": "copperpack:coppy"
+    },
+    "8": {
+      "item": "copperpack:coppy"
+    }
+  },
+  "result": {
+    "item": "copperpack:coppy_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,6200 @@
+{
+  "mod_elements": [
+    {
+      "name": "CopperIngot",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_ingot",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperBlock",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_block",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_ore_block_recipe",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_block_ore_recipe",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperOreSmelting",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_ore_smelting",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pickaxe_recipe",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperAxeRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_axe_recipe",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperSwordRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_sword_recipe",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperShovelRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_shovel_recipe",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperHoeRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_hoe_recipe",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_armor_helmet_recipe",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_armor_body_recipe",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_armor_leggings_recipe",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_armor_boots_recipe",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperPackArmor",
+      "type": "tab",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pack_armor",
+      "path": "~/Stuff"
+    },
+    {
+      "name": "CopperOre",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_ore",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperPickaxe",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pickaxe",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperAxe",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_axe",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperSword",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_sword",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperShovel",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_shovel",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperHoe",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_hoe",
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperArmor",
+      "type": "armor",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Copper"
+    },
+    {
+      "name": "CopperPackTools",
+      "type": "tab",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pack_tools",
+      "path": "~/Stuff"
+    },
+    {
+      "name": "CopperPackCombat",
+      "type": "tab",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pack_combat",
+      "path": "~/Stuff"
+    },
+    {
+      "name": "SliverIngot",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_ingot",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverOre",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_ore",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverBlock",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_block",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_ore_block_recipe",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_block_ore_recipe",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverOreSmelting",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_ore_smelting",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverPickaxe",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_pickaxe",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverAxe",
+      "type": "tool",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_axe",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverSword",
+      "type": "tool",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_sword",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverShovel",
+      "type": "tool",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_shovel",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverHoe",
+      "type": "tool",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_hoe",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_pickaxe_recipe",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverAxeRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_axe_recipe",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverSwordRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_sword_recipe",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverShovelRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_shovel_recipe",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverHoeRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_hoe_recipe",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverArmor",
+      "type": "armor",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_armor_helmet_recipe",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_armor_body_recipe",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_armor_leggings_recipe",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "SliverArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sliver_armor_boots_recipe",
+      "path": "~/Stuff/Sliver"
+    },
+    {
+      "name": "DusttinDust",
+      "type": "item",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_dust",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinOre",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_ore",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinBlock",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_block",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_ore_block_recipe",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_block_ore_recipe",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinOreSmelting",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_ore_smelting",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinPickaxe",
+      "type": "tool",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_pickaxe",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinAxe",
+      "type": "tool",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_axe",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinSword",
+      "type": "tool",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_sword",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinShovel",
+      "type": "tool",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_shovel",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinHoe",
+      "type": "tool",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_hoe",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_pickaxe_recipe",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinAxeRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_axe_recipe",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinSwordRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_sword_recipe",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinShovelRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_shovel_recipe",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinHoeRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_hoe_recipe",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinArmor",
+      "type": "armor",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_armor_helmet_recipe",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_armor_body_recipe",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_armor_leggings_recipe",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "DusttinArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dusttin_armor_boots_recipe",
+      "path": "~/Stuff/Dusttin"
+    },
+    {
+      "name": "White_WoolArmor",
+      "type": "armor",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_wool_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Wool/white"
+    },
+    {
+      "name": "White_WoolArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_wool_armor_helmet_recipe",
+      "path": "~/Stuff/Wool/white"
+    },
+    {
+      "name": "White_WoolArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_wool_armor_body_recipe",
+      "path": "~/Stuff/Wool/white"
+    },
+    {
+      "name": "White_WoolArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_wool_armor_leggings_recipe",
+      "path": "~/Stuff/Wool/white"
+    },
+    {
+      "name": "White_WoolArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_wool_armor_boots_recipe",
+      "path": "~/Stuff/Wool/white"
+    },
+    {
+      "name": "OrangeWoolArmor",
+      "type": "armor",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_wool_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Wool/orange"
+    },
+    {
+      "name": "OrangeWoolArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_wool_armor_helmet_recipe",
+      "path": "~/Stuff/Wool/orange"
+    },
+    {
+      "name": "OrangeWoolArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_wool_armor_body_recipe",
+      "path": "~/Stuff/Wool/orange"
+    },
+    {
+      "name": "OrangeWoolArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_wool_armor_leggings_recipe",
+      "path": "~/Stuff/Wool/orange"
+    },
+    {
+      "name": "OrangeWoolArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_wool_armor_boots_recipe",
+      "path": "~/Stuff/Wool/orange"
+    },
+    {
+      "name": "Magenta_WoolArmor",
+      "type": "armor",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_wool_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Wool/Magenta"
+    },
+    {
+      "name": "Magenta_WoolArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_wool_armor_helmet_recipe",
+      "path": "~/Stuff/Wool/Magenta"
+    },
+    {
+      "name": "Magenta_WoolArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_wool_armor_body_recipe",
+      "path": "~/Stuff/Wool/Magenta"
+    },
+    {
+      "name": "Magenta_WoolArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_wool_armor_leggings_recipe",
+      "path": "~/Stuff/Wool/Magenta"
+    },
+    {
+      "name": "Magenta_WoolArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_wool_armor_boots_recipe",
+      "path": "~/Stuff/Wool/Magenta"
+    },
+    {
+      "name": "LightBlueWoolArmor",
+      "type": "armor",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_blue_wool_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Wool/Light Blue"
+    },
+    {
+      "name": "LightBlueWoolArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_blue_wool_armor_helmet_recipe",
+      "path": "~/Stuff/Wool/Light Blue"
+    },
+    {
+      "name": "LightBlueWoolArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_blue_wool_armor_body_recipe",
+      "path": "~/Stuff/Wool/Light Blue"
+    },
+    {
+      "name": "LightBlueWoolArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_blue_wool_armor_leggings_recipe",
+      "path": "~/Stuff/Wool/Light Blue"
+    },
+    {
+      "name": "LightBlueWoolArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_blue_wool_armor_boots_recipe",
+      "path": "~/Stuff/Wool/Light Blue"
+    },
+    {
+      "name": "YellowWoolArmor",
+      "type": "armor",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_wool_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Wool/yellow"
+    },
+    {
+      "name": "YellowWoolArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_wool_armor_helmet_recipe",
+      "path": "~/Stuff/Wool/yellow"
+    },
+    {
+      "name": "YellowWoolArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_wool_armor_body_recipe",
+      "path": "~/Stuff/Wool/yellow"
+    },
+    {
+      "name": "YellowWoolArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_wool_armor_leggings_recipe",
+      "path": "~/Stuff/Wool/yellow"
+    },
+    {
+      "name": "YellowWoolArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_wool_armor_boots_recipe",
+      "path": "~/Stuff/Wool/yellow"
+    },
+    {
+      "name": "LimeWoolArmor",
+      "type": "armor",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lime_wool_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Wool/lime"
+    },
+    {
+      "name": "LimeWoolArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lime_wool_armor_helmet_recipe",
+      "path": "~/Stuff/Wool/lime"
+    },
+    {
+      "name": "LimeWoolArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lime_wool_armor_body_recipe",
+      "path": "~/Stuff/Wool/lime"
+    },
+    {
+      "name": "LimeWoolArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lime_wool_armor_leggings_recipe",
+      "path": "~/Stuff/Wool/lime"
+    },
+    {
+      "name": "LimeWoolArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lime_wool_armor_boots_recipe",
+      "path": "~/Stuff/Wool/lime"
+    },
+    {
+      "name": "PinkWoolArmor",
+      "type": "armor",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_wool_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Wool/pink"
+    },
+    {
+      "name": "PinkWoolArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_wool_armor_helmet_recipe",
+      "path": "~/Stuff/Wool/pink"
+    },
+    {
+      "name": "PinkWoolArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_wool_armor_body_recipe",
+      "path": "~/Stuff/Wool/pink"
+    },
+    {
+      "name": "PinkWoolArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_wool_armor_leggings_recipe",
+      "path": "~/Stuff/Wool/pink"
+    },
+    {
+      "name": "PinkWoolArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_wool_armor_boots_recipe",
+      "path": "~/Stuff/Wool/pink"
+    },
+    {
+      "name": "GrayWoolArmor",
+      "type": "armor",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_wool_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Wool/gray"
+    },
+    {
+      "name": "GrayWoolArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_wool_armor_helmet_recipe",
+      "path": "~/Stuff/Wool/gray"
+    },
+    {
+      "name": "GrayWoolArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_wool_armor_body_recipe",
+      "path": "~/Stuff/Wool/gray"
+    },
+    {
+      "name": "GrayWoolArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_wool_armor_leggings_recipe",
+      "path": "~/Stuff/Wool/gray"
+    },
+    {
+      "name": "GrayWoolArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_wool_armor_boots_recipe",
+      "path": "~/Stuff/Wool/gray"
+    },
+    {
+      "name": "LightGrayWoolArmor",
+      "type": "armor",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_gray_wool_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Wool/light gray"
+    },
+    {
+      "name": "LightGrayWoolArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_gray_wool_armor_helmet_recipe",
+      "path": "~/Stuff/Wool/light gray"
+    },
+    {
+      "name": "LightGrayWoolArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_gray_wool_armor_body_recipe",
+      "path": "~/Stuff/Wool/light gray"
+    },
+    {
+      "name": "LightGrayWoolArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_gray_wool_armor_leggings_recipe",
+      "path": "~/Stuff/Wool/light gray"
+    },
+    {
+      "name": "LightGrayWoolArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_gray_wool_armor_boots_recipe",
+      "path": "~/Stuff/Wool/light gray"
+    },
+    {
+      "name": "CyanWoolArmor",
+      "type": "armor",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_wool_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Wool/cyan"
+    },
+    {
+      "name": "CyanWoolArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_wool_armor_helmet_recipe",
+      "path": "~/Stuff/Wool/cyan"
+    },
+    {
+      "name": "CyanWoolArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_wool_armor_body_recipe",
+      "path": "~/Stuff/Wool/cyan"
+    },
+    {
+      "name": "CyanWoolArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_wool_armor_leggings_recipe",
+      "path": "~/Stuff/Wool/cyan"
+    },
+    {
+      "name": "CyanWoolArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_wool_armor_boots_recipe",
+      "path": "~/Stuff/Wool/cyan"
+    },
+    {
+      "name": "PurpleWoolArmor",
+      "type": "armor",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_wool_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Wool/purple"
+    },
+    {
+      "name": "PurpleWoolArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_wool_armor_helmet_recipe",
+      "path": "~/Stuff/Wool/purple"
+    },
+    {
+      "name": "PurpleWoolArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_wool_armor_body_recipe",
+      "path": "~/Stuff/Wool/purple"
+    },
+    {
+      "name": "PurpleWoolArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_wool_armor_leggings_recipe",
+      "path": "~/Stuff/Wool/purple"
+    },
+    {
+      "name": "PurpleWoolArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_wool_armor_boots_recipe",
+      "path": "~/Stuff/Wool/purple"
+    },
+    {
+      "name": "BlueWoolArmor",
+      "type": "armor",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_wool_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Wool/blue"
+    },
+    {
+      "name": "BlueWoolArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_wool_armor_helmet_recipe",
+      "path": "~/Stuff/Wool/blue"
+    },
+    {
+      "name": "BlueWoolArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_wool_armor_body_recipe",
+      "path": "~/Stuff/Wool/blue"
+    },
+    {
+      "name": "BlueWoolArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_wool_armor_leggings_recipe",
+      "path": "~/Stuff/Wool/blue"
+    },
+    {
+      "name": "BlueWoolArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_wool_armor_boots_recipe",
+      "path": "~/Stuff/Wool/blue"
+    },
+    {
+      "name": "BrownWoolArmor",
+      "type": "armor",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_wool_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Wool/brown"
+    },
+    {
+      "name": "BrownWoolArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_wool_armor_helmet_recipe",
+      "path": "~/Stuff/Wool/brown"
+    },
+    {
+      "name": "BrownWoolArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_wool_armor_body_recipe",
+      "path": "~/Stuff/Wool/brown"
+    },
+    {
+      "name": "BrownWoolArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_wool_armor_leggings_recipe",
+      "path": "~/Stuff/Wool/brown"
+    },
+    {
+      "name": "BrownWoolArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_wool_armor_boots_recipe",
+      "path": "~/Stuff/Wool/brown"
+    },
+    {
+      "name": "GreenWoolArmor",
+      "type": "armor",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_wool_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Wool/green"
+    },
+    {
+      "name": "GreenWoolArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_wool_armor_helmet_recipe",
+      "path": "~/Stuff/Wool/green"
+    },
+    {
+      "name": "GreenWoolArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_wool_armor_body_recipe",
+      "path": "~/Stuff/Wool/green"
+    },
+    {
+      "name": "GreenWoolArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_wool_armor_leggings_recipe",
+      "path": "~/Stuff/Wool/green"
+    },
+    {
+      "name": "GreenWoolArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_wool_armor_boots_recipe",
+      "path": "~/Stuff/Wool/green"
+    },
+    {
+      "name": "RedWoolArmor",
+      "type": "armor",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_wool_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Wool/red"
+    },
+    {
+      "name": "RedWoolArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_wool_armor_helmet_recipe",
+      "path": "~/Stuff/Wool/red"
+    },
+    {
+      "name": "RedWoolArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_wool_armor_body_recipe",
+      "path": "~/Stuff/Wool/red"
+    },
+    {
+      "name": "RedWoolArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_wool_armor_leggings_recipe",
+      "path": "~/Stuff/Wool/red"
+    },
+    {
+      "name": "RedWoolArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_wool_armor_boots_recipe",
+      "path": "~/Stuff/Wool/red"
+    },
+    {
+      "name": "BlackWoolArmor",
+      "type": "armor",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_wool_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Wool/black"
+    },
+    {
+      "name": "BlackWoolArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_wool_armor_helmet_recipe",
+      "path": "~/Stuff/Wool/black"
+    },
+    {
+      "name": "BlackWoolArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_wool_armor_body_recipe",
+      "path": "~/Stuff/Wool/black"
+    },
+    {
+      "name": "BlackWoolArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_wool_armor_leggings_recipe",
+      "path": "~/Stuff/Wool/black"
+    },
+    {
+      "name": "BlackWoolArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_wool_armor_boots_recipe",
+      "path": "~/Stuff/Wool/black"
+    },
+    {
+      "name": "WoolBiome",
+      "type": "biome",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wool_biome",
+      "path": "~/Stuff/Wool"
+    },
+    {
+      "name": "WoolDimension",
+      "type": "dimension",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wool_dimension",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/Stuff/Wool"
+    },
+    {
+      "name": "WoolRecipe",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wool_recipe",
+      "path": "~/Stuff/Wool"
+    },
+    {
+      "name": "CopperPackBlock",
+      "type": "tab",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pack_block",
+      "path": "~/Stuff"
+    },
+    {
+      "name": "CopperPackMisc",
+      "type": "tab",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pack_misc",
+      "path": "~/Stuff"
+    },
+    {
+      "name": "LogArmor",
+      "type": "armor",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "log_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Wood"
+    },
+    {
+      "name": "LogArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "log_armor_helmet_recipe",
+      "path": "~/Stuff/Wood"
+    },
+    {
+      "name": "LogArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "log_armor_body_recipe",
+      "path": "~/Stuff/Wood"
+    },
+    {
+      "name": "LogArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "log_armor_leggings_recipe",
+      "path": "~/Stuff/Wood"
+    },
+    {
+      "name": "LogArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "log_armor_boots_recipe",
+      "path": "~/Stuff/Wood"
+    },
+    {
+      "name": "Magenta",
+      "type": "item",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaOre",
+      "type": "block",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_ore",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaBlock",
+      "type": "block",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_block",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_ore_block_recipe",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_block_ore_recipe",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaOreSmelting",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_ore_smelting",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaPickaxe",
+      "type": "tool",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_pickaxe",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaAxe",
+      "type": "tool",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_axe",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaSword",
+      "type": "tool",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_sword",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaShovel",
+      "type": "tool",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_shovel",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaHoe",
+      "type": "tool",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_hoe",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_pickaxe_recipe",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaAxeRecipe",
+      "type": "recipe",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_axe_recipe",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaSwordRecipe",
+      "type": "recipe",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_sword_recipe",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaShovelRecipe",
+      "type": "recipe",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_shovel_recipe",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaHoeRecipe",
+      "type": "recipe",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_hoe_recipe",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaArmor",
+      "type": "armor",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_armor_helmet_recipe",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_armor_body_recipe",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_armor_leggings_recipe",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "MagentaArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_armor_boots_recipe",
+      "path": "~/Stuff/Magenta"
+    },
+    {
+      "name": "GoldyIngot",
+      "type": "item",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_ingot",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldyOre",
+      "type": "block",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_ore",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldyBlock",
+      "type": "block",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_block",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_ore_block_recipe",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_block_ore_recipe",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldyOreSmelting",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_ore_smelting",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldyPickaxe",
+      "type": "tool",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_pickaxe",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldyAxe",
+      "type": "tool",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_axe",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldySword",
+      "type": "tool",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_sword",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldyShovel",
+      "type": "tool",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_shovel",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldyHoe",
+      "type": "tool",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_hoe",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_pickaxe_recipe",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldyAxeRecipe",
+      "type": "recipe",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_axe_recipe",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldySwordRecipe",
+      "type": "recipe",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_sword_recipe",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldyShovelRecipe",
+      "type": "recipe",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_shovel_recipe",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldyHoeRecipe",
+      "type": "recipe",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_hoe_recipe",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldyArmor",
+      "type": "armor",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldyArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_armor_helmet_recipe",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldyArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_armor_body_recipe",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldyArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_armor_leggings_recipe",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "GoldyArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldy_armor_boots_recipe",
+      "path": "~/Stuff/Goldy"
+    },
+    {
+      "name": "BludyIngot",
+      "type": "item",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_ingot",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludyOre",
+      "type": "block",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_ore",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludyBlock",
+      "type": "block",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_block",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_ore_block_recipe",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_block_ore_recipe",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludyOreSmelting",
+      "type": "recipe",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_ore_smelting",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludyPickaxe",
+      "type": "tool",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_pickaxe",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludyAxe",
+      "type": "tool",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_axe",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludySword",
+      "type": "tool",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_sword",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludyShovel",
+      "type": "tool",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_shovel",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludyHoe",
+      "type": "tool",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_hoe",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_pickaxe_recipe",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludyAxeRecipe",
+      "type": "recipe",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_axe_recipe",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludySwordRecipe",
+      "type": "recipe",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_sword_recipe",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludyShovelRecipe",
+      "type": "recipe",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_shovel_recipe",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludyHoeRecipe",
+      "type": "recipe",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_hoe_recipe",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludyArmor",
+      "type": "armor",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludyArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_armor_helmet_recipe",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludyArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_armor_body_recipe",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludyArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_armor_leggings_recipe",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "BludyArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bludy_armor_boots_recipe",
+      "path": "~/Stuff/Bludy"
+    },
+    {
+      "name": "RedustDust",
+      "type": "item",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_dust",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustOre",
+      "type": "block",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_ore",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustBlock",
+      "type": "block",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_block",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_ore_block_recipe",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_block_ore_recipe",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustOreSmelting",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_ore_smelting",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustPickaxe",
+      "type": "tool",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_pickaxe",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustAxe",
+      "type": "tool",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_axe",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustSword",
+      "type": "tool",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_sword",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustShovel",
+      "type": "tool",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_shovel",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustHoe",
+      "type": "tool",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_hoe",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_pickaxe_recipe",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustAxeRecipe",
+      "type": "recipe",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_axe_recipe",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustSwordRecipe",
+      "type": "recipe",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_sword_recipe",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustShovelRecipe",
+      "type": "recipe",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_shovel_recipe",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustHoeRecipe",
+      "type": "recipe",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_hoe_recipe",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustArmor",
+      "type": "armor",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_armor_helmet_recipe",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_armor_body_recipe",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_armor_leggings_recipe",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "RedustArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redust_armor_boots_recipe",
+      "path": "~/Stuff/Redust"
+    },
+    {
+      "name": "Coppy",
+      "type": "item",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppyOre",
+      "type": "block",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_ore",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppyBlock",
+      "type": "block",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_block",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_ore_block_recipe",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_block_ore_recipe",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppyOreSmelting",
+      "type": "recipe",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_ore_smelting",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppyPickaxe",
+      "type": "tool",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_pickaxe",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppyAxe",
+      "type": "tool",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_axe",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppySword",
+      "type": "tool",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_sword",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppyShovel",
+      "type": "tool",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_shovel",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppyHoe",
+      "type": "tool",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_hoe",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_pickaxe_recipe",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppyAxeRecipe",
+      "type": "recipe",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_axe_recipe",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppySwordRecipe",
+      "type": "recipe",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_sword_recipe",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppyShovelRecipe",
+      "type": "recipe",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_shovel_recipe",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppyHoeRecipe",
+      "type": "recipe",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_hoe_recipe",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppyArmor",
+      "type": "armor",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppyArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_armor_helmet_recipe",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppyArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_armor_body_recipe",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppyArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 281,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_armor_leggings_recipe",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "CoppyArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppy_armor_boots_recipe",
+      "path": "~/Stuff/Coppy"
+    },
+    {
+      "name": "DiagotIngot",
+      "type": "item",
+      "sortid": 283,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_ingot",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotOre",
+      "type": "block",
+      "sortid": 284,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_ore",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotBlock",
+      "type": "block",
+      "sortid": 285,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_block",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_ore_block_recipe",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_block_ore_recipe",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotOreSmelting",
+      "type": "recipe",
+      "sortid": 288,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_ore_smelting",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotPickaxe",
+      "type": "tool",
+      "sortid": 289,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_pickaxe",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotAxe",
+      "type": "tool",
+      "sortid": 290,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_axe",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotSword",
+      "type": "tool",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_sword",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotShovel",
+      "type": "tool",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_shovel",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotHoe",
+      "type": "tool",
+      "sortid": 293,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_hoe",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 294,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_pickaxe_recipe",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotAxeRecipe",
+      "type": "recipe",
+      "sortid": 295,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_axe_recipe",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotSwordRecipe",
+      "type": "recipe",
+      "sortid": 296,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_sword_recipe",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotShovelRecipe",
+      "type": "recipe",
+      "sortid": 297,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_shovel_recipe",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotHoeRecipe",
+      "type": "recipe",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_hoe_recipe",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotArmor",
+      "type": "armor",
+      "sortid": 299,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 300,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_armor_helmet_recipe",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_armor_body_recipe",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 302,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_armor_leggings_recipe",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "DiagotArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 303,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diagot_armor_boots_recipe",
+      "path": "~/Stuff/Diagot"
+    },
+    {
+      "name": "Green",
+      "type": "item",
+      "sortid": 304,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenOre",
+      "type": "block",
+      "sortid": 305,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_ore",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenBlock",
+      "type": "block",
+      "sortid": 306,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_block",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 307,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_ore_block_recipe",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 308,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_block_ore_recipe",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenOreSmelting",
+      "type": "recipe",
+      "sortid": 309,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_ore_smelting",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenPickaxe",
+      "type": "tool",
+      "sortid": 310,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_pickaxe",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenAxe",
+      "type": "tool",
+      "sortid": 311,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_axe",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenSword",
+      "type": "tool",
+      "sortid": 312,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_sword",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenShovel",
+      "type": "tool",
+      "sortid": 313,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_shovel",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenHoe",
+      "type": "tool",
+      "sortid": 314,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_hoe",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_pickaxe_recipe",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenAxeRecipe",
+      "type": "recipe",
+      "sortid": 316,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_axe_recipe",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenSwordRecipe",
+      "type": "recipe",
+      "sortid": 317,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_sword_recipe",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenShovelRecipe",
+      "type": "recipe",
+      "sortid": 318,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_shovel_recipe",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenHoeRecipe",
+      "type": "recipe",
+      "sortid": 319,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_hoe_recipe",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenArmor",
+      "type": "armor",
+      "sortid": 320,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 321,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_armor_helmet_recipe",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 322,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_armor_body_recipe",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 323,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_armor_leggings_recipe",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "GreenArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 324,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_armor_boots_recipe",
+      "path": "~/Stuff/Green"
+    },
+    {
+      "name": "CoadyIngot",
+      "type": "item",
+      "sortid": 325,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_ingot",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadyOre",
+      "type": "block",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_ore",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadyBlock",
+      "type": "block",
+      "sortid": 327,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_block",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 328,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_ore_block_recipe",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 329,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_block_ore_recipe",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadyOreSmelting",
+      "type": "recipe",
+      "sortid": 330,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_ore_smelting",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadyPickaxe",
+      "type": "tool",
+      "sortid": 331,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_pickaxe",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadyAxe",
+      "type": "tool",
+      "sortid": 332,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_axe",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadySword",
+      "type": "tool",
+      "sortid": 333,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_sword",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadyShovel",
+      "type": "tool",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_shovel",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadyHoe",
+      "type": "tool",
+      "sortid": 335,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_hoe",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 336,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_pickaxe_recipe",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadyAxeRecipe",
+      "type": "recipe",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_axe_recipe",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadySwordRecipe",
+      "type": "recipe",
+      "sortid": 338,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_sword_recipe",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadyShovelRecipe",
+      "type": "recipe",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_shovel_recipe",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadyHoeRecipe",
+      "type": "recipe",
+      "sortid": 340,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_hoe_recipe",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadyArmor",
+      "type": "armor",
+      "sortid": 341,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadyArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 342,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_armor_helmet_recipe",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadyArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 343,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_armor_body_recipe",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadyArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 344,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_armor_leggings_recipe",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "CoadyArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 345,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coady_armor_boots_recipe",
+      "path": "~/Stuff/Coady"
+    },
+    {
+      "name": "LenonDust",
+      "type": "item",
+      "sortid": 348,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_dust",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonOre",
+      "type": "block",
+      "sortid": 349,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_ore",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonBlock",
+      "type": "block",
+      "sortid": 350,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_block",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 351,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_ore_block_recipe",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 352,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_block_ore_recipe",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonOreSmelting",
+      "type": "recipe",
+      "sortid": 353,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_ore_smelting",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonPickaxe",
+      "type": "tool",
+      "sortid": 354,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_pickaxe",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonAxe",
+      "type": "tool",
+      "sortid": 355,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_axe",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonSword",
+      "type": "tool",
+      "sortid": 356,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_sword",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonShovel",
+      "type": "tool",
+      "sortid": 357,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_shovel",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonHoe",
+      "type": "tool",
+      "sortid": 358,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_hoe",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 359,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_pickaxe_recipe",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonAxeRecipe",
+      "type": "recipe",
+      "sortid": 360,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_axe_recipe",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonSwordRecipe",
+      "type": "recipe",
+      "sortid": 361,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_sword_recipe",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonShovelRecipe",
+      "type": "recipe",
+      "sortid": 362,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_shovel_recipe",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonHoeRecipe",
+      "type": "recipe",
+      "sortid": 363,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_hoe_recipe",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonArmor",
+      "type": "armor",
+      "sortid": 364,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 365,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_armor_helmet_recipe",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 366,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_armor_body_recipe",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 367,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_armor_leggings_recipe",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "LenonArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 368,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lenon_armor_boots_recipe",
+      "path": "~/Stuff/Lenon"
+    },
+    {
+      "name": "Icoly",
+      "type": "item",
+      "sortid": 369,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolyOre",
+      "type": "block",
+      "sortid": 370,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_ore",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolyBlock",
+      "type": "block",
+      "sortid": 371,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_block",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 372,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_ore_block_recipe",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 373,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_block_ore_recipe",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolyOreSmelting",
+      "type": "recipe",
+      "sortid": 374,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_ore_smelting",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolyPickaxe",
+      "type": "tool",
+      "sortid": 375,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_pickaxe",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolyAxe",
+      "type": "tool",
+      "sortid": 376,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_axe",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolySword",
+      "type": "tool",
+      "sortid": 377,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_sword",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolyShovel",
+      "type": "tool",
+      "sortid": 378,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_shovel",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolyHoe",
+      "type": "tool",
+      "sortid": 379,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_hoe",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 380,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_pickaxe_recipe",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolyAxeRecipe",
+      "type": "recipe",
+      "sortid": 381,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_axe_recipe",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolySwordRecipe",
+      "type": "recipe",
+      "sortid": 382,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_sword_recipe",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolyShovelRecipe",
+      "type": "recipe",
+      "sortid": 383,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_shovel_recipe",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolyHoeRecipe",
+      "type": "recipe",
+      "sortid": 384,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_hoe_recipe",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolyArmor",
+      "type": "armor",
+      "sortid": 385,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolyArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 386,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_armor_helmet_recipe",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolyArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 387,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_armor_body_recipe",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolyArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 388,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_armor_leggings_recipe",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "IcolyArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 389,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icoly_armor_boots_recipe",
+      "path": "~/Stuff/Icoly"
+    },
+    {
+      "name": "ArmorLog",
+      "type": "achievement",
+      "sortid": 390,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armor_log",
+      "path": "~/Stuff/achievements/Armor"
+    },
+    {
+      "name": "ArmorLogBody",
+      "type": "achievement",
+      "sortid": 391,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armor_log_body",
+      "path": "~/Stuff/achievements/Armor"
+    },
+    {
+      "name": "ArmorLogLegginh",
+      "type": "achievement",
+      "sortid": 392,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armor_log_legginh",
+      "path": "~/Stuff/achievements/Armor"
+    },
+    {
+      "name": "ArmorLogBoots",
+      "type": "achievement",
+      "sortid": 393,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armor_log_boots",
+      "path": "~/Stuff/achievements/Armor"
+    },
+    {
+      "name": "ArmorWool",
+      "type": "achievement",
+      "sortid": 394,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armor_wool",
+      "path": "~/Stuff/achievements/Armor"
+    },
+    {
+      "name": "ArmorWoolBody",
+      "type": "achievement",
+      "sortid": 395,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armor_wool_body",
+      "path": "~/Stuff/achievements/Armor"
+    },
+    {
+      "name": "ArmorWoolLegging",
+      "type": "achievement",
+      "sortid": 396,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armor_wool_legging",
+      "path": "~/Stuff/achievements/Armor"
+    },
+    {
+      "name": "ArmorWoolBoots",
+      "type": "achievement",
+      "sortid": 397,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armor_wool_boots",
+      "path": "~/Stuff/achievements/Armor"
+    },
+    {
+      "name": "Goim",
+      "type": "item",
+      "sortid": 398,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimOre",
+      "type": "block",
+      "sortid": 399,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_ore",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimBlock",
+      "type": "block",
+      "sortid": 400,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_block",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 401,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_ore_block_recipe",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 402,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_block_ore_recipe",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimOreSmelting",
+      "type": "recipe",
+      "sortid": 403,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_ore_smelting",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimPickaxe",
+      "type": "tool",
+      "sortid": 404,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_pickaxe",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimAxe",
+      "type": "tool",
+      "sortid": 405,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_axe",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimSword",
+      "type": "tool",
+      "sortid": 406,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_sword",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimShovel",
+      "type": "tool",
+      "sortid": 407,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_shovel",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimHoe",
+      "type": "tool",
+      "sortid": 408,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_hoe",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 409,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_pickaxe_recipe",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimAxeRecipe",
+      "type": "recipe",
+      "sortid": 410,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_axe_recipe",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimSwordRecipe",
+      "type": "recipe",
+      "sortid": 411,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_sword_recipe",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimShovelRecipe",
+      "type": "recipe",
+      "sortid": 412,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_shovel_recipe",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimHoeRecipe",
+      "type": "recipe",
+      "sortid": 413,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_hoe_recipe",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimArmor",
+      "type": "armor",
+      "sortid": 414,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 415,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_armor_helmet_recipe",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 416,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_armor_body_recipe",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 417,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_armor_leggings_recipe",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "GoimArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 418,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goim_armor_boots_recipe",
+      "path": "~/Stuff/Goim"
+    },
+    {
+      "name": "CopperPackPortalIgniter",
+      "type": "tab",
+      "sortid": 419,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pack_portal_igniter",
+      "path": "~/Stuff"
+    },
+    {
+      "name": "ReddyIngot",
+      "type": "item",
+      "sortid": 420,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_ingot",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyOre",
+      "type": "block",
+      "sortid": 421,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_ore",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyBlock",
+      "type": "block",
+      "sortid": 422,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_block",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 423,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_ore_block_recipe",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 424,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_block_ore_recipe",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyOreSmelting",
+      "type": "recipe",
+      "sortid": 425,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_ore_smelting",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyPickaxe",
+      "type": "tool",
+      "sortid": 426,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_pickaxe",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyAxe",
+      "type": "tool",
+      "sortid": 427,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_axe",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddySword",
+      "type": "tool",
+      "sortid": 428,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_sword",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyShovel",
+      "type": "tool",
+      "sortid": 429,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_shovel",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyHoe",
+      "type": "tool",
+      "sortid": 430,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_hoe",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 431,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_pickaxe_recipe",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyAxeRecipe",
+      "type": "recipe",
+      "sortid": 432,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_axe_recipe",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddySwordRecipe",
+      "type": "recipe",
+      "sortid": 433,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_sword_recipe",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyShovelRecipe",
+      "type": "recipe",
+      "sortid": 434,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_shovel_recipe",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyHoeRecipe",
+      "type": "recipe",
+      "sortid": 435,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_hoe_recipe",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyArmor",
+      "type": "armor",
+      "sortid": 436,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 437,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_armor_helmet_recipe",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 438,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_armor_body_recipe",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 439,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_armor_leggings_recipe",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 440,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_armor_boots_recipe",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyBiome",
+      "type": "biome",
+      "sortid": 441,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_biome",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyDimension",
+      "type": "dimension",
+      "sortid": 442,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_dimension",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "ReddyRecipe",
+      "type": "recipe",
+      "sortid": 443,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reddy_recipe",
+      "path": "~/Stuff/Reddy"
+    },
+    {
+      "name": "WoalDust",
+      "type": "item",
+      "sortid": 444,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_dust",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalOre",
+      "type": "block",
+      "sortid": 445,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_ore",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalBlock",
+      "type": "block",
+      "sortid": 446,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_block",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 447,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_ore_block_recipe",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 448,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_block_ore_recipe",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalOreSmelting",
+      "type": "recipe",
+      "sortid": 449,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_ore_smelting",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalPickaxe",
+      "type": "tool",
+      "sortid": 450,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_pickaxe",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalAxe",
+      "type": "tool",
+      "sortid": 451,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_axe",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalSword",
+      "type": "tool",
+      "sortid": 452,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_sword",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalShovel",
+      "type": "tool",
+      "sortid": 453,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_shovel",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalHoe",
+      "type": "tool",
+      "sortid": 454,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_hoe",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 455,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_pickaxe_recipe",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalAxeRecipe",
+      "type": "recipe",
+      "sortid": 456,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_axe_recipe",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalSwordRecipe",
+      "type": "recipe",
+      "sortid": 457,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_sword_recipe",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalShovelRecipe",
+      "type": "recipe",
+      "sortid": 458,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_shovel_recipe",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalHoeRecipe",
+      "type": "recipe",
+      "sortid": 459,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_hoe_recipe",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalArmor",
+      "type": "armor",
+      "sortid": 460,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 461,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_armor_helmet_recipe",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 462,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_armor_body_recipe",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 463,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_armor_leggings_recipe",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "WoalArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 464,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woal_armor_boots_recipe",
+      "path": "~/Stuff/Woal"
+    },
+    {
+      "name": "Blacky",
+      "type": "item",
+      "sortid": 465,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackyOre",
+      "type": "block",
+      "sortid": 466,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_ore",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackyBlock",
+      "type": "block",
+      "sortid": 467,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_block",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 468,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_ore_block_recipe",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 469,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_block_ore_recipe",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackyOreSmelting",
+      "type": "recipe",
+      "sortid": 470,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_ore_smelting",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackyPickaxe",
+      "type": "tool",
+      "sortid": 471,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_pickaxe",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackyAxe",
+      "type": "tool",
+      "sortid": 472,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_axe",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackySword",
+      "type": "tool",
+      "sortid": 473,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_sword",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackyShovel",
+      "type": "tool",
+      "sortid": 474,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_shovel",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackyHoe",
+      "type": "tool",
+      "sortid": 475,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_hoe",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 476,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_pickaxe_recipe",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackyAxeRecipe",
+      "type": "recipe",
+      "sortid": 477,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_axe_recipe",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackySwordRecipe",
+      "type": "recipe",
+      "sortid": 478,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_sword_recipe",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackyShovelRecipe",
+      "type": "recipe",
+      "sortid": 479,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_shovel_recipe",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackyHoeRecipe",
+      "type": "recipe",
+      "sortid": 480,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_hoe_recipe",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackyArmor",
+      "type": "armor",
+      "sortid": 481,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackyArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 482,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_armor_helmet_recipe",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackyArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 483,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_armor_body_recipe",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackyArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 484,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_armor_leggings_recipe",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "BlackyArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 485,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacky_armor_boots_recipe",
+      "path": "~/Stuff/Blacky"
+    },
+    {
+      "name": "GreeDa",
+      "type": "plant",
+      "sortid": 489,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_da",
+      "path": "~/Plants"
+    },
+    {
+      "name": "CopperPackPlants",
+      "type": "tab",
+      "sortid": 489,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pack_plants",
+      "path": "~/Plants"
+    },
+    {
+      "name": "GreeDust",
+      "type": "item",
+      "sortid": 490,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_dust",
+      "path": "~/Stuff/GreeDust"
+    },
+    {
+      "name": "GreePickaxe",
+      "type": "tool",
+      "sortid": 491,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_pickaxe",
+      "path": "~/Stuff/GreeDust"
+    },
+    {
+      "name": "GreeAxe",
+      "type": "tool",
+      "sortid": 492,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_axe",
+      "path": "~/Stuff/GreeDust"
+    },
+    {
+      "name": "GreeSword",
+      "type": "tool",
+      "sortid": 493,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_sword",
+      "path": "~/Stuff/GreeDust"
+    },
+    {
+      "name": "GreeShovel",
+      "type": "tool",
+      "sortid": 494,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_shovel",
+      "path": "~/Stuff/GreeDust"
+    },
+    {
+      "name": "GreeHoe",
+      "type": "tool",
+      "sortid": 495,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_hoe",
+      "path": "~/Stuff/GreeDust"
+    },
+    {
+      "name": "GreePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 496,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_pickaxe_recipe",
+      "path": "~/Stuff/GreeDust"
+    },
+    {
+      "name": "GreeAxeRecipe",
+      "type": "recipe",
+      "sortid": 497,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_axe_recipe",
+      "path": "~/Stuff/GreeDust"
+    },
+    {
+      "name": "GreeSwordRecipe",
+      "type": "recipe",
+      "sortid": 498,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_sword_recipe",
+      "path": "~/Stuff/GreeDust"
+    },
+    {
+      "name": "GreeShovelRecipe",
+      "type": "recipe",
+      "sortid": 499,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_shovel_recipe",
+      "path": "~/Stuff/GreeDust"
+    },
+    {
+      "name": "GreeHoeRecipe",
+      "type": "recipe",
+      "sortid": 500,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_hoe_recipe",
+      "path": "~/Stuff/GreeDust"
+    },
+    {
+      "name": "GreeArmor",
+      "type": "armor",
+      "sortid": 501,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/GreeDust"
+    },
+    {
+      "name": "GreeArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 502,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_armor_helmet_recipe",
+      "path": "~/Stuff/GreeDust"
+    },
+    {
+      "name": "GreeArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 503,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_armor_body_recipe",
+      "path": "~/Stuff/GreeDust"
+    },
+    {
+      "name": "GreeArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 504,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_armor_leggings_recipe",
+      "path": "~/Stuff/GreeDust"
+    },
+    {
+      "name": "GreeArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 505,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_armor_boots_recipe",
+      "path": "~/Stuff/GreeDust"
+    },
+    {
+      "name": "GreePlab",
+      "type": "item",
+      "sortid": 506,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_plab",
+      "path": "~/Stuff/GreeDust"
+    },
+    {
+      "name": "GreeDustRepice",
+      "type": "recipe",
+      "sortid": 506,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_dust_repice",
+      "path": "~/Stuff/GreeDust"
+    },
+    {
+      "name": "GreePlabRecipe",
+      "type": "recipe",
+      "sortid": 507,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gree_plab_recipe",
+      "path": "~/Stuff/GreeDust"
+    },
+    {
+      "name": "LazyPotion",
+      "type": "potion",
+      "sortid": 509,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lazy_potion",
+      "path": "~/Potions"
+    },
+    {
+      "name": "LazyItem",
+      "type": "item",
+      "sortid": 510,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lazy_item",
+      "path": "~/Potions"
+    },
+    {
+      "name": "LazyPotionRecipe",
+      "type": "recipe",
+      "sortid": 511,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lazy_potion_recipe",
+      "path": "~/Potions"
+    },
+    {
+      "name": "LazyFlower",
+      "type": "plant",
+      "sortid": 512,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lazy_flower",
+      "path": "~/Potions"
+    },
+    {
+      "name": "LazyRecipe",
+      "type": "recipe",
+      "sortid": 513,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lazy_recipe",
+      "path": "~/Potions"
+    },
+    {
+      "name": "PolozoIngot",
+      "type": "item",
+      "sortid": 514,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_ingot",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoOre",
+      "type": "block",
+      "sortid": 515,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_ore",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoBlock",
+      "type": "block",
+      "sortid": 516,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_block",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 517,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_ore_block_recipe",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 518,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_block_ore_recipe",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoOreSmelting",
+      "type": "recipe",
+      "sortid": 519,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_ore_smelting",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoPickaxe",
+      "type": "tool",
+      "sortid": 520,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_pickaxe",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoAxe",
+      "type": "tool",
+      "sortid": 521,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_axe",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoSword",
+      "type": "tool",
+      "sortid": 522,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_sword",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoShovel",
+      "type": "tool",
+      "sortid": 523,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_shovel",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoHoe",
+      "type": "tool",
+      "sortid": 524,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_hoe",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 525,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_pickaxe_recipe",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoAxeRecipe",
+      "type": "recipe",
+      "sortid": 526,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_axe_recipe",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoSwordRecipe",
+      "type": "recipe",
+      "sortid": 527,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_sword_recipe",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoShovelRecipe",
+      "type": "recipe",
+      "sortid": 528,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_shovel_recipe",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoHoeRecipe",
+      "type": "recipe",
+      "sortid": 529,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_hoe_recipe",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoArmor",
+      "type": "armor",
+      "sortid": 530,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 531,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_armor_helmet_recipe",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 532,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_armor_body_recipe",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 533,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_armor_leggings_recipe",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "PolozoArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 534,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polozo_armor_boots_recipe",
+      "path": "~/Stuff/Polozo"
+    },
+    {
+      "name": "GironIngot",
+      "type": "item",
+      "sortid": 535,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_ingot",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironOre",
+      "type": "block",
+      "sortid": 536,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_ore",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironBlock",
+      "type": "block",
+      "sortid": 537,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_block",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 538,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_ore_block_recipe",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 539,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_block_ore_recipe",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironOreSmelting",
+      "type": "recipe",
+      "sortid": 540,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_ore_smelting",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironPickaxe",
+      "type": "tool",
+      "sortid": 541,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_pickaxe",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironAxe",
+      "type": "tool",
+      "sortid": 542,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_axe",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironSword",
+      "type": "tool",
+      "sortid": 543,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_sword",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironShovel",
+      "type": "tool",
+      "sortid": 544,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_shovel",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironHoe",
+      "type": "tool",
+      "sortid": 545,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_hoe",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 546,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_pickaxe_recipe",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironAxeRecipe",
+      "type": "recipe",
+      "sortid": 547,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_axe_recipe",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironSwordRecipe",
+      "type": "recipe",
+      "sortid": 548,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_sword_recipe",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironShovelRecipe",
+      "type": "recipe",
+      "sortid": 549,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_shovel_recipe",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironHoeRecipe",
+      "type": "recipe",
+      "sortid": 550,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_hoe_recipe",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironArmor",
+      "type": "armor",
+      "sortid": 551,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 552,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_armor_helmet_recipe",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 553,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_armor_body_recipe",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 554,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_armor_leggings_recipe",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "GironArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 555,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "giron_armor_boots_recipe",
+      "path": "~/Stuff/Giron"
+    },
+    {
+      "name": "SuperHealthPotion",
+      "type": "potion",
+      "sortid": 556,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_health_potion",
+      "path": "~/Potions"
+    },
+    {
+      "name": "HealthyItem",
+      "type": "item",
+      "sortid": 557,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "healthy_item",
+      "path": "~/Potions"
+    },
+    {
+      "name": "HealthyFlower",
+      "type": "plant",
+      "sortid": 558,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "healthy_flower",
+      "path": "~/Potions"
+    },
+    {
+      "name": "HealthyItemRecipe",
+      "type": "recipe",
+      "sortid": 559,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "healthy_item_recipe",
+      "path": "~/Potions"
+    },
+    {
+      "name": "HealthyPotions",
+      "type": "potion",
+      "sortid": 560,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "healthy_potions",
+      "path": "~/Potions"
+    },
+    {
+      "name": "HealthyPotionsRecipe",
+      "type": "recipe",
+      "sortid": 561,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "healthy_potions_recipe",
+      "path": "~/Potions"
+    },
+    {
+      "name": "SuperHealthPotionRecipe",
+      "type": "recipe",
+      "sortid": 562,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_health_potion_recipe",
+      "path": "~/Potions"
+    },
+    {
+      "name": "Scopinda",
+      "type": "item",
+      "sortid": 563,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda",
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaOre",
+      "type": "block",
+      "sortid": 564,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_ore",
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaBlock",
+      "type": "block",
+      "sortid": 565,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_block",
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 566,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_ore_block_recipe",
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 567,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_block_ore_recipe",
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaOreSmelting",
+      "type": "recipe",
+      "sortid": 568,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_ore_smelting",
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaPickaxe",
+      "type": "tool",
+      "sortid": 569,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_pickaxe",
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaAxe",
+      "type": "tool",
+      "sortid": 570,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_axe",
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaSword",
+      "type": "tool",
+      "sortid": 571,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_sword",
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaShovel",
+      "type": "tool",
+      "sortid": 572,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_shovel",
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaHoe",
+      "type": "tool",
+      "sortid": 573,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_hoe",
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 574,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_pickaxe_recipe",
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaAxeRecipe",
+      "type": "recipe",
+      "sortid": 575,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_axe_recipe",
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaSwordRecipe",
+      "type": "recipe",
+      "sortid": 576,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_sword_recipe",
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaShovelRecipe",
+      "type": "recipe",
+      "sortid": 577,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_shovel_recipe",
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaHoeRecipe",
+      "type": "recipe",
+      "sortid": 578,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_hoe_recipe",
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaArmor",
+      "type": "armor",
+      "sortid": 579,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 580,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_armor_helmet_recipe",
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 581,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_armor_body_recipe",
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 582,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_armor_leggings_recipe",
+      "path": "~/Stuff/Scopinda"
+    },
+    {
+      "name": "ScopindaArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 583,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scopinda_armor_boots_recipe",
+      "path": "~/Stuff/Scopinda"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "vi_vn": {
+      "item.copperpack.lenon_armor_leggings": "Quần Lenon",
+      "block.copperpack.reddy_ore": "Quặng Reddy",
+      "item.copperpack.coppy_armor_leggings": "Quần Coppy",
+      "item.copperpack.brown_wool_armor_leggings": "Quần len nâu",
+      "item.copperpack.healthy_item": "Vật Healthy",
+      "item.copperpack.gree_axe": "Rìu Gree",
+      "item.copperpack.copper_armor_leggings": "Quần Copper",
+      "item.copperpack.pink_wool_armor_leggings": "Quần len hồng",
+      "item.copperpack.copper_pickaxe": "Cuốc Copper",
+      "item.copperpack.bludy_hoe": "Cuốc Bludy",
+      "item.copperpack.polozo_armor_chestplate": "Polozo Chestplate",
+      "item.copperpack.gree_shovel": "Xẻng Gree",
+      "item.copperpack.light_blue_wool_armor_chestplate": "Light Blue Wool Chestplate",
+      "item.copperpack.black_wool_armor_helmet": "Mũ len đen",
+      "item.copperpack.blue_wool_armor_boots": "Giày len xanh",
+      "item.copperpack.diagot_hoe": "Cuốc Diagot",
+      "advancements.armor_wool_body.descr": "Một cái hoàn hảo cho mùa đông",
+      "block.copperpack.diagot_block": "Khối của Diagot",
+      "item.minecraft.splash_potion.effect.lazy_potion": "Splash Potion của Thuốc lười",
+      "item.copperpack.magenta_wool_armor_boots": "Giày len Magenta",
+      "item.copperpack.red_wool_armor_helmet": "Mũ len đỏ",
+      "block.copperpack.healthy_flower": "Hoa Healthy",
+      "block.copperpack.green_ore": "Green Ore",
+      "item.copperpack.copper_armor_boots": "Copper Boots",
+      "block.copperpack.coppy_ore": "Coppy Ore",
+      "item.copperpack.reddy_dimension": "Reddy Portal Igniter",
+      "block.copperpack.sliver_block": "Block of Sliver",
+      "item.copperpack.sliver_hoe": "Sliver Hoe",
+      "item.copperpack.redust_shovel": "Redust Shovel",
+      "item.copperpack.sliver_armor_helmet": "Sliver Helmet",
+      "item.copperpack.goim_axe": "Goim Axe",
+      "item.copperpack.scopinda_armor_helmet": "Scopinda Helmet",
+      "itemGroup.tabcopper_pack_tools": "Copper Pack Tools",
+      "item.copperpack.magenta_axe": "Magenta Axe",
+      "item.copperpack.lenon_hoe": "Lenon Hoe",
+      "item.copperpack.sliver_shovel": "Sliver Shovel",
+      "item.copperpack.light_blue_wool_armor_helmet": "Light Blue Wool Helmet",
+      "item.copperpack.blacky": "Blacky",
+      "biome.copperpack.reddy_biome": "Reddy Biome",
+      "item.copperpack.light_blue_wool_armor_leggings": "Light Blue Wool Leggings",
+      "item.copperpack.white_wool_armor_boots": "White Wool Boots",
+      "item.copperpack.magenta_wool_armor_helmet": "Magenta Wool Helmet",
+      "item.copperpack.orange_wool_armor_leggings": "Orange Wool Leggings",
+      "block.copperpack.redust_ore": "Redust Ore",
+      "block.copperpack.green_block": "Block of Green",
+      "item.copperpack.coppy_axe": "Coppy Axe",
+      "item.copperpack.coppy_armor_boots": "Coppy Boots",
+      "item.copperpack.goldy_armor_helmet": "Goldy Helmet",
+      "item.copperpack.green_axe": "Green Axe",
+      "item.copperpack.icoly_axe": "Icoly Axe",
+      "block.copperpack.magenta_block": "Block of Magenta",
+      "item.copperpack.icoly_armor_chestplate": "Icoly Chestplate",
+      "item.copperpack.gray_wool_armor_boots": "Gray Wool Boots",
+      "advancements.armor_log_legginh.title": "Armor Log Legging",
+      "item.copperpack.blacky_armor_chestplate": "Blacky Chestplate",
+      "item.copperpack.gree_armor_helmet": "Gree Helmet",
+      "item.copperpack.diagot_armor_chestplate": "Diagot Chestplate",
+      "item.copperpack.red_wool_armor_chestplate": "Red Wool Chestplate",
+      "item.copperpack.coppy_sword": "Coppy Sword",
+      "item.copperpack.white_wool_armor_chestplate": "White Wool Chestplate",
+      "item.copperpack.goim_armor_helmet": "Goim Helmet",
+      "item.copperpack.dusttin_dust": "Dusttin",
+      "item.copperpack.dusttin_hoe": "Dusttin Hoe",
+      "item.copperpack.reddy_shovel": "Reddy Shovel",
+      "item.copperpack.reddy_armor_chestplate": "Reddy Chestplate",
+      "block.copperpack.copper_block": "Block of Copper",
+      "item.copperpack.brown_wool_armor_chestplate": "Brown Wool Chestplate",
+      "item.copperpack.gree_sword": "Gree Sword",
+      "item.minecraft.splash_potion.effect.healthy_potions": "Splash Potion of Healthy Potions",
+      "item.copperpack.yellow_wool_armor_chestplate": "Yellow Wool Chestplate",
+      "item.copperpack.log_armor_leggings": "Log Leggings",
+      "item.copperpack.brown_wool_armor_helmet": "Brown Wool Helmet",
+      "block.copperpack.coady_block": "Block of Coady",
+      "item.copperpack.icoly_hoe": "Icoly Hoe",
+      "item.copperpack.sliver_pickaxe": "Sliver Pickaxe",
+      "item.copperpack.polozo_pickaxe": "Polozo Pickaxe",
+      "block.copperpack.reddy_block": "Block of Reddy",
+      "item.copperpack.gree_armor_leggings": "Gree Leggings",
+      "item.copperpack.diagot_sword": "Diagot Sword",
+      "item.copperpack.pink_wool_armor_chestplate": "Pink Wool Chestplate",
+      "item.copperpack.blacky_sword": "Blacky Sword",
+      "item.copperpack.giron_armor_chestplate": "Giron Chestplate",
+      "item.copperpack.polozo_armor_boots": "Polozo Boots",
+      "advancements.armor_log.descr": "A Head Armor was made on Log!",
+      "advancements.armor_log_body.descr": "Good stuff for defend as starter",
+      "item.copperpack.polozo_armor_helmet": "Polozo Helmet",
+      "item.copperpack.copper_hoe": "Copper Hoe",
+      "item.copperpack.lenon_armor_chestplate": "Lenon Chestplate",
+      "advancements.armor_wool.title": "Armor Wool",
+      "item.copperpack.bludy_sword": "Bludy Sword",
+      "item.copperpack.diagot_pickaxe": "Diagot Pickaxe",
+      "item.minecraft.lingering_potion.effect.lazy_potion": "Lingering Potion of Lazy Potion",
+      "item.copperpack.magenta_wool_armor_chestplate": "Magenta Wool Chestplate",
+      "item.copperpack.woal_pickaxe": "Woal Pickaxe",
+      "item.copperpack.redust_hoe": "Redust Hoe",
+      "item.copperpack.goim": "Goim",
+      "item.minecraft.potion.effect.super_health_potion": "Potion of Super Health Potion",
+      "item.copperpack.goim_armor_leggings": "Goim Leggings",
+      "block.copperpack.polozo_block": "Block of Polozo",
+      "item.copperpack.redust_armor_leggings": "Redust Leggings",
+      "advancements.armor_log_boots.title": "Armor Log Boots",
+      "block.copperpack.woal_ore": "Woal Ore",
+      "itemGroup.tabcopper_pack_plants": "Copper Pack Plants",
+      "item.copperpack.green_armor_helmet": "Green Helmet",
+      "item.copperpack.coppy_pickaxe": "Coppy Pickaxe",
+      "item.copperpack.scopinda_hoe": "Scopinda Hoe",
+      "item.copperpack.blacky_armor_leggings": "Blacky Leggings",
+      "item.copperpack.icoly": "Icoly",
+      "item.copperpack.blacky_hoe": "Blacky Hoe",
+      "item.copperpack.redust_sword": "Redust Sword",
+      "item.copperpack.redust_armor_helmet": "Redust Helmet",
+      "block.copperpack.goim_block": "Block of Goim",
+      "item.copperpack.gray_wool_armor_helmet": "Gray Wool Helmet",
+      "item.copperpack.green": "Green",
+      "item.copperpack.diagot_armor_leggings": "Diagot Leggings",
+      "item.copperpack.bludy_armor_helmet": "Bludy Helmet",
+      "item.copperpack.lime_wool_armor_chestplate": "Lime Wool Chestplate",
+      "item.copperpack.lime_wool_armor_boots": "Lime Wool Boots",
+      "item.copperpack.orange_wool_armor_boots": "Orange Wool Boots",
+      "block.copperpack.goldy_block": "Block of Goldy",
+      "item.copperpack.sliver_armor_chestplate": "Sliver Chestplate",
+      "item.copperpack.sliver_armor_boots": "Sliver Boots",
+      "item.copperpack.dusttin_armor_helmet": "Dusttin Helmet",
+      "itemGroup.tabcopper_pack_block": "Copper Pack Block",
+      "item.copperpack.scopinda": "Scopinda",
+      "block.copperpack.giron_block": "Block of Giron",
+      "item.copperpack.redust_dust": "Redust",
+      "item.copperpack.magenta_armor_boots": "Magenta Boots",
+      "item.copperpack.light_gray_wool_armor_boots": "Light Gray Wool Boots",
+      "item.copperpack.woal_axe": "Woal Axe",
+      "item.copperpack.magenta_wool_armor_leggings": "Magenta Wool Leggings",
+      "block.copperpack.coady_ore": "Coady Ore",
+      "item.copperpack.sliver_sword": "Sliver Sword",
+      "item.copperpack.gree_hoe": "Gree Hoe",
+      "block.copperpack.woal_block": "Block of Woal",
+      "biome.copperpack.wool_biome": "Wool Biome",
+      "item.copperpack.lenon_sword": "Lenon Sword",
+      "block.copperpack.goim_ore": "Goim Ore",
+      "item.copperpack.giron_armor_boots": "Giron Boots",
+      "block.copperpack.dusttin_block": "Block of Dusttin",
+      "item.copperpack.giron_armor_helmet": "Giron Helmet",
+      "block.copperpack.blacky_ore": "Blacky Ore",
+      "item.copperpack.black_wool_armor_chestplate": " Black Wool Chestplate",
+      "item.copperpack.goldy_axe": "Goldy Axe",
+      "item.copperpack.woal_armor_helmet": "Woal Helmet",
+      "item.copperpack.light_gray_wool_armor_leggings": "Light Gray Wool Leggings",
+      "item.minecraft.lingering_potion.effect.healthy_potions": "Lingering Potion of Healthy Potions",
+      "block.copperpack.sliver_ore": "Sliver Ore",
+      "item.copperpack.polozo_axe": "Polozo Axe",
+      "item.copperpack.green_pickaxe": "Green Pickaxe",
+      "block.copperpack.scopinda_block": "Block of Scopinda",
+      "advancements.armor_wool_boots.title": "Armor Wool Boots",
+      "item.copperpack.diagot_armor_helmet": "Diagot Helmet",
+      "item.copperpack.black_wool_armor_boots": "Black Wool Boots",
+      "item.copperpack.coady_armor_helmet": "Coady Helmet",
+      "item.copperpack.giron_hoe": "Giron Hoe",
+      "item.copperpack.copper_sword": "Copper Sword",
+      "item.copperpack.lenon_shovel": "Lenon Shovel",
+      "item.copperpack.gree_armor_chestplate": "Gree Chestplate",
+      "item.copperpack.pink_wool_armor_boots": "Pink Wool Boots",
+      "item.copperpack.reddy_armor_helmet": "Reddy Helmet",
+      "item.copperpack.polozo_hoe": "Polozo Hoe",
+      "item.copperpack.green_hoe": "Green Hoe",
+      "item.copperpack.bludy_armor_chestplate": "Bludy Chestplate",
+      "item.copperpack.log_armor_boots": "Log Boots",
+      "item.copperpack.dusttin_armor_boots": "Dusttin Boots",
+      "item.copperpack.copper_armor_helmet": "Copper Helmet",
+      "item.copperpack.coady_armor_chestplate": "Coady Chestplate",
+      "item.copperpack.light_blue_wool_armor_boots": "Light Blue Wool Boots",
+      "item.copperpack.lenon_axe": "Lenon Axe",
+      "item.copperpack.icoly_pickaxe": "Icoly Pickaxe",
+      "item.copperpack.blacky_pickaxe": "Blacky Pickaxe",
+      "block.copperpack.copper_ore": "Copper Ore",
+      "item.copperpack.goldy_pickaxe": "Goldy Pickaxe",
+      "item.copperpack.redust_armor_boots": "Redust Boots",
+      "item.copperpack.copper_shovel": "Copper Shovel",
+      "item.copperpack.lenon_pickaxe": "Lenon Pickaxe",
+      "advancements.armor_log_body.title": "Armor Log Body",
+      "item.copperpack.scopinda_armor_boots": "Scopinda Boots",
+      "advancements.armor_wool.descr": "A wool head made on wool",
+      "item.copperpack.sliver_armor_leggings": "Sliver Leggings",
+      "advancements.armor_log.title": "Armor Log",
+      "item.minecraft.tipped_arrow.effect.super_health_potion": "Arrow of Super Health Potion",
+      "item.copperpack.coppy_hoe": "Coppy Hoe",
+      "item.copperpack.scopinda_armor_leggings": "Scopinda Leggings",
+      "item.copperpack.green_armor_boots": "Green Boots",
+      "block.copperpack.icoly_block": "Block of Icoly",
+      "item.copperpack.bludy_armor_boots": "Bludy Boots",
+      "item.copperpack.bludy_axe": "Bludy Axe",
+      "item.copperpack.giron_pickaxe": "Giron Pickaxe",
+      "block.copperpack.redust_block": "Block of Redust",
+      "item.copperpack.gree_plab": "Gree Plab",
+      "item.copperpack.scopinda_shovel": "Scopinda Shovel",
+      "item.copperpack.giron_armor_leggings": "Giron Leggings",
+      "item.copperpack.dusttin_armor_chestplate": "Dusttin Chestplate",
+      "item.copperpack.goldy_armor_boots": "Goldy Boots",
+      "item.copperpack.diagot_armor_boots": "Diagot Boots",
+      "item.copperpack.purple_wool_armor_boots": "Purple Wool Boots",
+      "item.copperpack.goim_pickaxe": "Goim Pickaxe",
+      "item.copperpack.giron_ingot": "Giron",
+      "item.copperpack.diagot_axe": "Diagot Axe",
+      "item.minecraft.splash_potion.effect.super_health_potion": "Splash Potion of Super Health Potion",
+      "item.copperpack.orange_wool_armor_chestplate": "Orange Wool Chestplate",
+      "item.copperpack.woal_armor_leggings": "Woal Leggings",
+      "item.copperpack.green_wool_armor_boots": "Green Wool Boots",
+      "item.copperpack.reddy_pickaxe": "Reddy Pickaxe",
+      "item.copperpack.polozo_sword": "Polozo Sword",
+      "block.copperpack.magenta_ore": "Magenta Ore",
+      "item.copperpack.polozo_armor_leggings": "Polozo Leggings",
+      "block.copperpack.giron_ore": "Giron Ore",
+      "item.copperpack.lime_wool_armor_leggings": "Lime Wool Leggings",
+      "item.copperpack.reddy_sword": "Reddy Sword",
+      "item.copperpack.polozo_shovel": "Polozo Shovel",
+      "item.copperpack.green_shovel": "Green Shovel",
+      "item.copperpack.yellow_wool_armor_leggings": "Yellow Wool Leggings",
+      "item.copperpack.pink_wool_armor_helmet": "Pink Wool Helmet",
+      "item.copperpack.gray_wool_armor_leggings": "Gray Wool Leggings",
+      "item.copperpack.cyan_wool_armor_leggings": "Cyan Wool Leggings",
+      "block.copperpack.lenon_ore": "Lenon Ore",
+      "item.copperpack.woal_armor_boots": "Woal Boots",
+      "item.copperpack.giron_sword": "Giron Sword",
+      "item.copperpack.purple_wool_armor_leggings": "Purple Wool Leggings",
+      "item.copperpack.log_armor_helmet": "Log Helmet",
+      "item.copperpack.scopinda_armor_chestplate": "Scopinda Chestplate",
+      "item.copperpack.yellow_wool_armor_helmet": "Yellow Wool Helmet",
+      "item.copperpack.coady_sword": "Coady Sword",
+      "item.minecraft.tipped_arrow.effect.healthy_potions": "Arrow of Healthy Potions",
+      "block.copperpack.lenon_block": "Block of Lenon",
+      "item.copperpack.dusttin_shovel": "Dusttin Shovel",
+      "itemGroup.tabcopper_pack_combat": "Copper Pack Combat",
+      "item.copperpack.dusttin_armor_leggings": "Dusttin Leggings",
+      "item.copperpack.coady_hoe": "Coady Hoe",
+      "item.copperpack.lenon_dust": "Lenon",
+      "item.copperpack.gree_armor_boots": "Gree Boots",
+      "item.copperpack.bludy_pickaxe": "Bludy Pickaxe",
+      "block.copperpack.bludy_ore": "Bludy Ore",
+      "item.copperpack.lime_wool_armor_helmet": "Lime Wool Helmet",
+      "block.copperpack.coppy_block": "Block of Coppy",
+      "item.copperpack.goldy_ingot": "Goldy",
+      "item.copperpack.coppy_armor_chestplate": "Coppy Chestplate",
+      "block.copperpack.gree_da": "Gree Da",
+      "item.copperpack.green_wool_armor_helmet": "Green Wool Helmet",
+      "item.copperpack.log_armor_chestplate": "Log Chestplate",
+      "item.copperpack.woal_shovel": "Woal Shovel",
+      "item.copperpack.scopinda_pickaxe": "Scopinda Pickaxe",
+      "item.copperpack.goldy_shovel": "Goldy Shovel",
+      "advancements.armor_wool_legging.descr": "A warm for your leg",
+      "item.copperpack.yellow_wool_armor_boots": "Yellow Wool Boots",
+      "block.copperpack.blacky_block": "Block of Blacky",
+      "item.copperpack.cyan_wool_armor_boots": "Cyan Wool Boots",
+      "item.copperpack.icoly_shovel": "Icoly Shovel",
+      "item.copperpack.light_gray_wool_armor_helmet": "Light Gray Wool Helmet",
+      "item.copperpack.blacky_armor_boots": "Blacky Boots",
+      "advancements.armor_log_legginh.descr": "Legging for your leg as newbie",
+      "item.copperpack.goim_hoe": "Goim Hoe",
+      "block.copperpack.icoly_ore": "Icoly Ore",
+      "item.copperpack.reddy_hoe": "Reddy Hoe",
+      "block.copperpack.lazy_flower": "Lazy Flower",
+      "item.copperpack.reddy_ingot": "Reddy",
+      "item.copperpack.sliver_ingot": "Sliver",
+      "item.copperpack.blue_wool_armor_helmet": "Blue Wool Helmet",
+      "item.copperpack.orange_wool_armor_helmet": "Orange Wool Helmet",
+      "item.copperpack.gray_wool_armor_chestplate": "Gray Wool Chestplate",
+      "item.copperpack.magenta_armor_chestplate": "Magenta Chestplate",
+      "item.copperpack.redust_axe": "Redust Axe",
+      "item.copperpack.blacky_armor_helmet": "Blacky Helmet",
+      "item.copperpack.light_gray_wool_armor_chestplate": "Light Gray Wool Chestplate",
+      "item.copperpack.redust_pickaxe": "Redust Pickaxe",
+      "item.copperpack.red_wool_armor_boots": "Red Wool Boots",
+      "item.copperpack.bludy_ingot": "Bludy",
+      "item.copperpack.coady_axe": "Coady Axe",
+      "item.copperpack.coady_pickaxe": "Coady Pickaxe",
+      "item.minecraft.potion.effect.lazy_potion": "Potion of Lazy Potion",
+      "item.copperpack.reddy_armor_leggings": "Reddy Leggings",
+      "item.copperpack.red_wool_armor_leggings": "Red Wool Leggings",
+      "item.copperpack.blacky_shovel": "Blacky Shovel",
+      "item.copperpack.scopinda_axe": "Scopinda Axe",
+      "item.copperpack.woal_hoe": "Woal Hoe",
+      "item.copperpack.redust_armor_chestplate": "Redust Chestplate",
+      "item.copperpack.woal_sword": "Woal Sword",
+      "item.copperpack.blacky_axe": "Blacky Axe",
+      "itemGroup.tabcopper_pack_armor": "Copper Pack Armor",
+      "item.copperpack.gree_dust": "Gree Dust",
+      "item.copperpack.coppy": "Coppy",
+      "item.copperpack.dusttin_pickaxe": "Dusttin Pickaxe",
+      "item.copperpack.gree_pickaxe": "Gree Pickaxe",
+      "item.copperpack.copper_axe": "Copper Axe",
+      "item.copperpack.goldy_armor_chestplate": "Goldy Chestplate",
+      "item.copperpack.brown_wool_armor_boots": "Brown Wool Boots",
+      "item.copperpack.goim_armor_boots": "Goim Boots",
+      "item.copperpack.reddy_armor_boots": "Reddy Boots",
+      "item.minecraft.potion.effect.healthy_potions": "Potion of Healthy Potions",
+      "block.copperpack.dusttin_ore": "Dusttin Ore",
+      "item.copperpack.goldy_hoe": "Goldy Hoe",
+      "item.copperpack.icoly_armor_leggings": "Icoly Leggings",
+      "item.copperpack.green_wool_armor_chestplate": "Green Wool Chestplate",
+      "item.copperpack.purple_wool_armor_chestplate": "Purple Wool Chestplate",
+      "item.copperpack.magenta_sword": "Magenta Sword",
+      "item.copperpack.woal_armor_chestplate": "Woal Chestplate",
+      "block.copperpack.diagot_ore": "Diagot Ore",
+      "item.copperpack.magenta_armor_helmet": "Magenta Helmet",
+      "item.copperpack.icoly_armor_helmet": "Icoly Helmet",
+      "item.copperpack.purple_wool_armor_helmet": "Purple Wool Helmet",
+      "item.copperpack.giron_axe": "Giron Axe",
+      "item.copperpack.bludy_armor_leggings": "Bludy Leggings",
+      "item.copperpack.wool_dimension": "Wool Portal Igniter",
+      "item.copperpack.magenta_shovel": "Magenta Shovel",
+      "item.copperpack.goim_armor_chestplate": "Goim Chestplate",
+      "item.copperpack.copper_ingot": "Copper",
+      "item.copperpack.coppy_shovel": "Coppy Shovel",
+      "itemGroup.tabcopper_pack_portal_igniter": "Copper Pack Portal Igniter",
+      "item.copperpack.dusttin_axe": "Dusttin Axe",
+      "item.copperpack.green_wool_armor_leggings": "Green Wool Leggings",
+      "item.copperpack.reddy_axe": "Reddy Axe",
+      "block.copperpack.scopinda_ore": "Scopinda Ore",
+      "item.copperpack.goldy_armor_leggings": "Goldy Leggings",
+      "item.copperpack.cyan_wool_armor_helmet": "Cyan Wool Helmet",
+      "item.copperpack.green_sword": "Green Sword",
+      "item.copperpack.copper_armor_chestplate": "Copper Chestplate",
+      "item.copperpack.sliver_axe": "Sliver Axe",
+      "item.copperpack.woal_dust": "Woal",
+      "item.copperpack.scopinda_sword": "Scopinda Sword",
+      "item.copperpack.bludy_shovel": "Bludy Shovel",
+      "advancements.armor_wool_boots.descr": "Perfect stuff for go outside with winter",
+      "item.copperpack.giron_shovel": "Giron Shovel",
+      "item.copperpack.dusttin_sword": "Dusttin Sword",
+      "item.copperpack.white_wool_armor_helmet": "White Wool Helmet",
+      "item.copperpack.goldy_sword": "Goldy Sword",
+      "item.copperpack.icoly_armor_boots": "Icoly Boots",
+      "item.copperpack.diagot_ingot": "Diagot",
+      "item.copperpack.magenta_pickaxe": "Magenta Pickaxe",
+      "item.copperpack.coady_armor_boots": "Coady Boots",
+      "item.copperpack.diagot_shovel": "Diagot Shovel",
+      "item.copperpack.black_wool_armor_leggings": "Black Wool Leggings",
+      "block.copperpack.goldy_ore": "Goldy Ore",
+      "item.copperpack.lenon_armor_boots": "Lenon Boots",
+      "item.minecraft.tipped_arrow.effect.lazy_potion": "Arrow of Lazy Potion",
+      "item.copperpack.coady_armor_leggings": "Coady Leggings",
+      "advancements.armor_wool_legging.title": "Armor Wool Legging",
+      "item.copperpack.coady_shovel": "Coady Shovel",
+      "item.copperpack.lenon_armor_helmet": "Lenon Helmet",
+      "item.copperpack.blue_wool_armor_leggings": "Blue Wool Leggings",
+      "itemGroup.tabcopper_pack_misc": "Copper Pack Misc",
+      "item.copperpack.magenta": "Magenta",
+      "item.copperpack.green_armor_chestplate": "Green Chestplate",
+      "block.copperpack.polozo_ore": "Polozo Ore",
+      "advancements.armor_wool_body.title": "Armor Wool Body",
+      "item.copperpack.blue_wool_armor_chestplate": "Blue Wool Chestplate",
+      "item.copperpack.magenta_hoe": "Magenta Hoe",
+      "item.copperpack.goim_sword": "Goim Sword",
+      "block.copperpack.bludy_block": "Block of Bludy",
+      "item.copperpack.lazy_item": "Lazy Item",
+      "item.copperpack.icoly_sword": "Icoly Sword",
+      "item.copperpack.white_wool_armor_leggings": "White Wool Leggings",
+      "item.copperpack.coppy_armor_helmet": "Coppy Helmet",
+      "item.copperpack.polozo_ingot": "Polozo",
+      "item.copperpack.goim_shovel": "Goim Shovel",
+      "item.copperpack.magenta_armor_leggings": "Magenta Leggings",
+      "item.copperpack.green_armor_leggings": "Green Leggings",
+      "item.minecraft.lingering_potion.effect.super_health_potion": "Lingering Potion of Super Health Potion",
+      "advancements.armor_log_boots.descr": "Help project your foot",
+      "item.copperpack.cyan_wool_armor_chestplate": "Cyan Wool Chestplate",
+      "item.copperpack.coady_ingot": "Coady"
+    },
+    "en_us": {
+      "item.copperpack.lenon_armor_leggings": "Lenon Leggings",
+      "block.copperpack.reddy_ore": "Reddy Ore",
+      "item.copperpack.coppy_armor_leggings": "Coppy Leggings",
+      "item.copperpack.brown_wool_armor_leggings": "Brown Wool Leggings",
+      "item.copperpack.healthy_item": "Healthy Item",
+      "item.copperpack.gree_axe": "Gree Axe",
+      "item.copperpack.copper_armor_leggings": "Copper Leggings",
+      "item.copperpack.pink_wool_armor_leggings": "Pink Wool Leggings",
+      "item.copperpack.copper_pickaxe": "Copper Pickaxe",
+      "item.copperpack.bludy_hoe": "Bludy Hoe",
+      "item.copperpack.polozo_armor_chestplate": "Polozo Chestplate",
+      "item.copperpack.gree_shovel": "Gree Shovel",
+      "item.copperpack.light_blue_wool_armor_chestplate": "Light Blue Wool Chestplate",
+      "item.copperpack.black_wool_armor_helmet": "Black Wool Helmet",
+      "item.copperpack.blue_wool_armor_boots": "Blue Wool Boots",
+      "item.copperpack.diagot_hoe": "Diagot Hoe",
+      "advancements.armor_wool_body.descr": "A perfect one for winter",
+      "block.copperpack.diagot_block": "Block of Diagot",
+      "item.minecraft.splash_potion.effect.lazy_potion": "Splash Potion of Lazy Potion",
+      "item.copperpack.magenta_wool_armor_boots": "Magenta Wool Boots",
+      "item.copperpack.red_wool_armor_helmet": "Red Wool Helmet",
+      "block.copperpack.healthy_flower": "Healthy Flower",
+      "block.copperpack.green_ore": "Green Ore",
+      "item.copperpack.copper_armor_boots": "Copper Boots",
+      "block.copperpack.coppy_ore": "Coppy Ore",
+      "item.copperpack.reddy_dimension": "Reddy Portal Igniter",
+      "block.copperpack.sliver_block": "Block of Sliver",
+      "item.copperpack.sliver_hoe": "Sliver Hoe",
+      "item.copperpack.redust_shovel": "Redust Shovel",
+      "item.copperpack.sliver_armor_helmet": "Sliver Helmet",
+      "item.copperpack.goim_axe": "Goim Axe",
+      "item.copperpack.scopinda_armor_helmet": "Scopinda Helmet",
+      "itemGroup.tabcopper_pack_tools": "Copper Pack Tools",
+      "item.copperpack.magenta_axe": "Magenta Axe",
+      "item.copperpack.lenon_hoe": "Lenon Hoe",
+      "item.copperpack.sliver_shovel": "Sliver Shovel",
+      "item.copperpack.light_blue_wool_armor_helmet": "Light Blue Wool Helmet",
+      "item.copperpack.blacky": "Blacky",
+      "biome.copperpack.reddy_biome": "Reddy Biome",
+      "item.copperpack.light_blue_wool_armor_leggings": "Light Blue Wool Leggings",
+      "item.copperpack.white_wool_armor_boots": "White Wool Boots",
+      "item.copperpack.magenta_wool_armor_helmet": "Magenta Wool Helmet",
+      "item.copperpack.orange_wool_armor_leggings": "Orange Wool Leggings",
+      "block.copperpack.redust_ore": "Redust Ore",
+      "block.copperpack.green_block": "Block of Green",
+      "item.copperpack.coppy_axe": "Coppy Axe",
+      "item.copperpack.coppy_armor_boots": "Coppy Boots",
+      "item.copperpack.goldy_armor_helmet": "Goldy Helmet",
+      "item.copperpack.green_axe": "Green Axe",
+      "item.copperpack.icoly_axe": "Icoly Axe",
+      "block.copperpack.magenta_block": "Block of Magenta",
+      "item.copperpack.icoly_armor_chestplate": "Icoly Chestplate",
+      "item.copperpack.gray_wool_armor_boots": "Gray Wool Boots",
+      "advancements.armor_log_legginh.title": "Armor Log Legging",
+      "item.copperpack.blacky_armor_chestplate": "Blacky Chestplate",
+      "item.copperpack.gree_armor_helmet": "Gree Helmet",
+      "item.copperpack.diagot_armor_chestplate": "Diagot Chestplate",
+      "item.copperpack.red_wool_armor_chestplate": "Red Wool Chestplate",
+      "item.copperpack.coppy_sword": "Coppy Sword",
+      "item.copperpack.white_wool_armor_chestplate": "White Wool Chestplate",
+      "item.copperpack.goim_armor_helmet": "Goim Helmet",
+      "item.copperpack.dusttin_dust": "Dusttin",
+      "item.copperpack.dusttin_hoe": "Dusttin Hoe",
+      "item.copperpack.reddy_shovel": "Reddy Shovel",
+      "item.copperpack.reddy_armor_chestplate": "Reddy Chestplate",
+      "block.copperpack.copper_block": "Block of Copper",
+      "item.copperpack.brown_wool_armor_chestplate": "Brown Wool Chestplate",
+      "item.copperpack.gree_sword": "Gree Sword",
+      "item.minecraft.splash_potion.effect.healthy_potions": "Splash Potion of Healthy Potions",
+      "item.copperpack.yellow_wool_armor_chestplate": "Yellow Wool Chestplate",
+      "item.copperpack.log_armor_leggings": "Log Leggings",
+      "item.copperpack.brown_wool_armor_helmet": "Brown Wool Helmet",
+      "block.copperpack.coady_block": "Block of Coady",
+      "item.copperpack.icoly_hoe": "Icoly Hoe",
+      "item.copperpack.sliver_pickaxe": "Sliver Pickaxe",
+      "item.copperpack.polozo_pickaxe": "Polozo Pickaxe",
+      "block.copperpack.reddy_block": "Block of Reddy",
+      "item.copperpack.gree_armor_leggings": "Gree Leggings",
+      "item.copperpack.diagot_sword": "Diagot Sword",
+      "item.copperpack.pink_wool_armor_chestplate": "Pink Wool Chestplate",
+      "item.copperpack.blacky_sword": "Blacky Sword",
+      "item.copperpack.giron_armor_chestplate": "Giron Chestplate",
+      "item.copperpack.polozo_armor_boots": "Polozo Boots",
+      "advancements.armor_log.descr": "A Head Armor was made on Log!",
+      "advancements.armor_log_body.descr": "Good stuff for defend as starter",
+      "item.copperpack.polozo_armor_helmet": "Polozo Helmet",
+      "item.copperpack.copper_hoe": "Copper Hoe",
+      "item.copperpack.lenon_armor_chestplate": "Lenon Chestplate",
+      "advancements.armor_wool.title": "Armor Wool",
+      "item.copperpack.bludy_sword": "Bludy Sword",
+      "item.copperpack.diagot_pickaxe": "Diagot Pickaxe",
+      "item.minecraft.lingering_potion.effect.lazy_potion": "Lingering Potion of Lazy Potion",
+      "item.copperpack.magenta_wool_armor_chestplate": "Magenta Wool Chestplate",
+      "item.copperpack.woal_pickaxe": "Woal Pickaxe",
+      "item.copperpack.redust_hoe": "Redust Hoe",
+      "item.copperpack.goim": "Goim",
+      "item.minecraft.potion.effect.super_health_potion": "Potion of Super Health Potion",
+      "item.copperpack.goim_armor_leggings": "Goim Leggings",
+      "block.copperpack.polozo_block": "Block of Polozo",
+      "item.copperpack.redust_armor_leggings": "Redust Leggings",
+      "advancements.armor_log_boots.title": "Armor Log Boots",
+      "block.copperpack.woal_ore": "Woal Ore",
+      "itemGroup.tabcopper_pack_plants": "Copper Pack Plants",
+      "item.copperpack.green_armor_helmet": "Green Helmet",
+      "item.copperpack.coppy_pickaxe": "Coppy Pickaxe",
+      "item.copperpack.scopinda_hoe": "Scopinda Hoe",
+      "item.copperpack.blacky_armor_leggings": "Blacky Leggings",
+      "item.copperpack.icoly": "Icoly",
+      "item.copperpack.blacky_hoe": "Blacky Hoe",
+      "item.copperpack.redust_sword": "Redust Sword",
+      "item.copperpack.redust_armor_helmet": "Redust Helmet",
+      "block.copperpack.goim_block": "Block of Goim",
+      "item.copperpack.gray_wool_armor_helmet": "Gray Wool Helmet",
+      "item.copperpack.green": "Green",
+      "item.copperpack.diagot_armor_leggings": "Diagot Leggings",
+      "item.copperpack.bludy_armor_helmet": "Bludy Helmet",
+      "item.copperpack.lime_wool_armor_chestplate": "Lime Wool Chestplate",
+      "item.copperpack.lime_wool_armor_boots": "Lime Wool Boots",
+      "item.copperpack.orange_wool_armor_boots": "Orange Wool Boots",
+      "block.copperpack.goldy_block": "Block of Goldy",
+      "item.copperpack.sliver_armor_chestplate": "Sliver Chestplate",
+      "item.copperpack.sliver_armor_boots": "Sliver Boots",
+      "item.copperpack.dusttin_armor_helmet": "Dusttin Helmet",
+      "itemGroup.tabcopper_pack_block": "Copper Pack Block",
+      "item.copperpack.scopinda": "Scopinda",
+      "block.copperpack.giron_block": "Block of Giron",
+      "item.copperpack.redust_dust": "Redust",
+      "item.copperpack.magenta_armor_boots": "Magenta Boots",
+      "item.copperpack.light_gray_wool_armor_boots": "Light Gray Wool Boots",
+      "item.copperpack.woal_axe": "Woal Axe",
+      "item.copperpack.magenta_wool_armor_leggings": "Magenta Wool Leggings",
+      "block.copperpack.coady_ore": "Coady Ore",
+      "item.copperpack.sliver_sword": "Sliver Sword",
+      "item.copperpack.gree_hoe": "Gree Hoe",
+      "block.copperpack.woal_block": "Block of Woal",
+      "biome.copperpack.wool_biome": "Wool Biome",
+      "item.copperpack.lenon_sword": "Lenon Sword",
+      "block.copperpack.goim_ore": "Goim Ore",
+      "item.copperpack.giron_armor_boots": "Giron Boots",
+      "block.copperpack.dusttin_block": "Block of Dusttin",
+      "item.copperpack.giron_armor_helmet": "Giron Helmet",
+      "block.copperpack.blacky_ore": "Blacky Ore",
+      "item.copperpack.black_wool_armor_chestplate": " Black Wool Chestplate",
+      "item.copperpack.goldy_axe": "Goldy Axe",
+      "item.copperpack.woal_armor_helmet": "Woal Helmet",
+      "item.copperpack.light_gray_wool_armor_leggings": "Light Gray Wool Leggings",
+      "item.minecraft.lingering_potion.effect.healthy_potions": "Lingering Potion of Healthy Potions",
+      "block.copperpack.sliver_ore": "Sliver Ore",
+      "item.copperpack.polozo_axe": "Polozo Axe",
+      "item.copperpack.green_pickaxe": "Green Pickaxe",
+      "block.copperpack.scopinda_block": "Block of Scopinda",
+      "advancements.armor_wool_boots.title": "Armor Wool Boots",
+      "item.copperpack.diagot_armor_helmet": "Diagot Helmet",
+      "item.copperpack.black_wool_armor_boots": "Black Wool Boots",
+      "item.copperpack.coady_armor_helmet": "Coady Helmet",
+      "item.copperpack.giron_hoe": "Giron Hoe",
+      "item.copperpack.copper_sword": "Copper Sword",
+      "item.copperpack.lenon_shovel": "Lenon Shovel",
+      "item.copperpack.gree_armor_chestplate": "Gree Chestplate",
+      "item.copperpack.pink_wool_armor_boots": "Pink Wool Boots",
+      "item.copperpack.reddy_armor_helmet": "Reddy Helmet",
+      "item.copperpack.polozo_hoe": "Polozo Hoe",
+      "item.copperpack.green_hoe": "Green Hoe",
+      "item.copperpack.bludy_armor_chestplate": "Bludy Chestplate",
+      "item.copperpack.log_armor_boots": "Log Boots",
+      "item.copperpack.dusttin_armor_boots": "Dusttin Boots",
+      "item.copperpack.copper_armor_helmet": "Copper Helmet",
+      "item.copperpack.coady_armor_chestplate": "Coady Chestplate",
+      "item.copperpack.light_blue_wool_armor_boots": "Light Blue Wool Boots",
+      "item.copperpack.lenon_axe": "Lenon Axe",
+      "item.copperpack.icoly_pickaxe": "Icoly Pickaxe",
+      "item.copperpack.blacky_pickaxe": "Blacky Pickaxe",
+      "block.copperpack.copper_ore": "Copper Ore",
+      "item.copperpack.goldy_pickaxe": "Goldy Pickaxe",
+      "item.copperpack.redust_armor_boots": "Redust Boots",
+      "item.copperpack.copper_shovel": "Copper Shovel",
+      "item.copperpack.lenon_pickaxe": "Lenon Pickaxe",
+      "advancements.armor_log_body.title": "Armor Log Body",
+      "item.copperpack.scopinda_armor_boots": "Scopinda Boots",
+      "advancements.armor_wool.descr": "A wool head made on wool",
+      "item.copperpack.sliver_armor_leggings": "Sliver Leggings",
+      "advancements.armor_log.title": "Armor Log",
+      "item.minecraft.tipped_arrow.effect.super_health_potion": "Arrow of Super Health Potion",
+      "item.copperpack.coppy_hoe": "Coppy Hoe",
+      "item.copperpack.scopinda_armor_leggings": "Scopinda Leggings",
+      "item.copperpack.green_armor_boots": "Green Boots",
+      "block.copperpack.icoly_block": "Block of Icoly",
+      "item.copperpack.bludy_armor_boots": "Bludy Boots",
+      "item.copperpack.bludy_axe": "Bludy Axe",
+      "item.copperpack.giron_pickaxe": "Giron Pickaxe",
+      "block.copperpack.redust_block": "Block of Redust",
+      "item.copperpack.gree_plab": "Gree Plab",
+      "item.copperpack.scopinda_shovel": "Scopinda Shovel",
+      "item.copperpack.giron_armor_leggings": "Giron Leggings",
+      "item.copperpack.dusttin_armor_chestplate": "Dusttin Chestplate",
+      "item.copperpack.goldy_armor_boots": "Goldy Boots",
+      "item.copperpack.diagot_armor_boots": "Diagot Boots",
+      "item.copperpack.purple_wool_armor_boots": "Purple Wool Boots",
+      "item.copperpack.goim_pickaxe": "Goim Pickaxe",
+      "item.copperpack.giron_ingot": "Giron",
+      "item.copperpack.diagot_axe": "Diagot Axe",
+      "item.minecraft.splash_potion.effect.super_health_potion": "Splash Potion of Super Health Potion",
+      "item.copperpack.orange_wool_armor_chestplate": "Orange Wool Chestplate",
+      "item.copperpack.woal_armor_leggings": "Woal Leggings",
+      "item.copperpack.green_wool_armor_boots": "Green Wool Boots",
+      "item.copperpack.reddy_pickaxe": "Reddy Pickaxe",
+      "item.copperpack.polozo_sword": "Polozo Sword",
+      "block.copperpack.magenta_ore": "Magenta Ore",
+      "item.copperpack.polozo_armor_leggings": "Polozo Leggings",
+      "block.copperpack.giron_ore": "Giron Ore",
+      "item.copperpack.lime_wool_armor_leggings": "Lime Wool Leggings",
+      "item.copperpack.reddy_sword": "Reddy Sword",
+      "item.copperpack.polozo_shovel": "Polozo Shovel",
+      "item.copperpack.green_shovel": "Green Shovel",
+      "item.copperpack.yellow_wool_armor_leggings": "Yellow Wool Leggings",
+      "item.copperpack.pink_wool_armor_helmet": "Pink Wool Helmet",
+      "item.copperpack.gray_wool_armor_leggings": "Gray Wool Leggings",
+      "item.copperpack.cyan_wool_armor_leggings": "Cyan Wool Leggings",
+      "block.copperpack.lenon_ore": "Lenon Ore",
+      "item.copperpack.woal_armor_boots": "Woal Boots",
+      "item.copperpack.giron_sword": "Giron Sword",
+      "item.copperpack.purple_wool_armor_leggings": "Purple Wool Leggings",
+      "item.copperpack.log_armor_helmet": "Log Helmet",
+      "item.copperpack.scopinda_armor_chestplate": "Scopinda Chestplate",
+      "item.copperpack.yellow_wool_armor_helmet": "Yellow Wool Helmet",
+      "item.copperpack.coady_sword": "Coady Sword",
+      "item.minecraft.tipped_arrow.effect.healthy_potions": "Arrow of Healthy Potions",
+      "block.copperpack.lenon_block": "Block of Lenon",
+      "item.copperpack.dusttin_shovel": "Dusttin Shovel",
+      "itemGroup.tabcopper_pack_combat": "Copper Pack Combat",
+      "item.copperpack.dusttin_armor_leggings": "Dusttin Leggings",
+      "item.copperpack.coady_hoe": "Coady Hoe",
+      "item.copperpack.lenon_dust": "Lenon",
+      "item.copperpack.gree_armor_boots": "Gree Boots",
+      "item.copperpack.bludy_pickaxe": "Bludy Pickaxe",
+      "block.copperpack.bludy_ore": "Bludy Ore",
+      "item.copperpack.lime_wool_armor_helmet": "Lime Wool Helmet",
+      "block.copperpack.coppy_block": "Block of Coppy",
+      "item.copperpack.goldy_ingot": "Goldy",
+      "item.copperpack.coppy_armor_chestplate": "Coppy Chestplate",
+      "block.copperpack.gree_da": "Gree Da",
+      "item.copperpack.green_wool_armor_helmet": "Green Wool Helmet",
+      "item.copperpack.log_armor_chestplate": "Log Chestplate",
+      "item.copperpack.woal_shovel": "Woal Shovel",
+      "item.copperpack.scopinda_pickaxe": "Scopinda Pickaxe",
+      "item.copperpack.goldy_shovel": "Goldy Shovel",
+      "advancements.armor_wool_legging.descr": "A warm for your leg",
+      "item.copperpack.yellow_wool_armor_boots": "Yellow Wool Boots",
+      "block.copperpack.blacky_block": "Block of Blacky",
+      "item.copperpack.cyan_wool_armor_boots": "Cyan Wool Boots",
+      "item.copperpack.icoly_shovel": "Icoly Shovel",
+      "item.copperpack.light_gray_wool_armor_helmet": "Light Gray Wool Helmet",
+      "item.copperpack.blacky_armor_boots": "Blacky Boots",
+      "advancements.armor_log_legginh.descr": "Legging for your leg as newbie",
+      "item.copperpack.goim_hoe": "Goim Hoe",
+      "block.copperpack.icoly_ore": "Icoly Ore",
+      "item.copperpack.reddy_hoe": "Reddy Hoe",
+      "block.copperpack.lazy_flower": "Lazy Flower",
+      "item.copperpack.reddy_ingot": "Reddy",
+      "item.copperpack.sliver_ingot": "Sliver",
+      "item.copperpack.blue_wool_armor_helmet": "Blue Wool Helmet",
+      "item.copperpack.orange_wool_armor_helmet": "Orange Wool Helmet",
+      "item.copperpack.gray_wool_armor_chestplate": "Gray Wool Chestplate",
+      "item.copperpack.magenta_armor_chestplate": "Magenta Chestplate",
+      "item.copperpack.redust_axe": "Redust Axe",
+      "item.copperpack.blacky_armor_helmet": "Blacky Helmet",
+      "item.copperpack.light_gray_wool_armor_chestplate": "Light Gray Wool Chestplate",
+      "item.copperpack.redust_pickaxe": "Redust Pickaxe",
+      "item.copperpack.red_wool_armor_boots": "Red Wool Boots",
+      "item.copperpack.bludy_ingot": "Bludy",
+      "item.copperpack.coady_axe": "Coady Axe",
+      "item.copperpack.coady_pickaxe": "Coady Pickaxe",
+      "item.minecraft.potion.effect.lazy_potion": "Potion of Lazy Potion",
+      "item.copperpack.reddy_armor_leggings": "Reddy Leggings",
+      "item.copperpack.red_wool_armor_leggings": "Red Wool Leggings",
+      "item.copperpack.blacky_shovel": "Blacky Shovel",
+      "item.copperpack.scopinda_axe": "Scopinda Axe",
+      "item.copperpack.woal_hoe": "Woal Hoe",
+      "item.copperpack.redust_armor_chestplate": "Redust Chestplate",
+      "item.copperpack.woal_sword": "Woal Sword",
+      "item.copperpack.blacky_axe": "Blacky Axe",
+      "itemGroup.tabcopper_pack_armor": "Copper Pack Armor",
+      "item.copperpack.gree_dust": "Gree Dust",
+      "item.copperpack.coppy": "Coppy",
+      "item.copperpack.dusttin_pickaxe": "Dusttin Pickaxe",
+      "item.copperpack.gree_pickaxe": "Gree Pickaxe",
+      "item.copperpack.copper_axe": "Copper Axe",
+      "item.copperpack.goldy_armor_chestplate": "Goldy Chestplate",
+      "item.copperpack.brown_wool_armor_boots": "Brown Wool Boots",
+      "item.copperpack.goim_armor_boots": "Goim Boots",
+      "item.copperpack.reddy_armor_boots": "Reddy Boots",
+      "item.minecraft.potion.effect.healthy_potions": "Potion of Healthy Potions",
+      "block.copperpack.dusttin_ore": "Dusttin Ore",
+      "item.copperpack.goldy_hoe": "Goldy Hoe",
+      "item.copperpack.icoly_armor_leggings": "Icoly Leggings",
+      "item.copperpack.green_wool_armor_chestplate": "Green Wool Chestplate",
+      "item.copperpack.purple_wool_armor_chestplate": "Purple Wool Chestplate",
+      "item.copperpack.magenta_sword": "Magenta Sword",
+      "item.copperpack.woal_armor_chestplate": "Woal Chestplate",
+      "block.copperpack.diagot_ore": "Diagot Ore",
+      "item.copperpack.magenta_armor_helmet": "Magenta Helmet",
+      "item.copperpack.icoly_armor_helmet": "Icoly Helmet",
+      "item.copperpack.purple_wool_armor_helmet": "Purple Wool Helmet",
+      "item.copperpack.giron_axe": "Giron Axe",
+      "item.copperpack.bludy_armor_leggings": "Bludy Leggings",
+      "item.copperpack.wool_dimension": "Wool Portal Igniter",
+      "item.copperpack.magenta_shovel": "Magenta Shovel",
+      "item.copperpack.goim_armor_chestplate": "Goim Chestplate",
+      "item.copperpack.copper_ingot": "Copper",
+      "item.copperpack.coppy_shovel": "Coppy Shovel",
+      "itemGroup.tabcopper_pack_portal_igniter": "Copper Pack Portal Igniter",
+      "item.copperpack.dusttin_axe": "Dusttin Axe",
+      "item.copperpack.green_wool_armor_leggings": "Green Wool Leggings",
+      "item.copperpack.reddy_axe": "Reddy Axe",
+      "block.copperpack.scopinda_ore": "Scopinda Ore",
+      "item.copperpack.goldy_armor_leggings": "Goldy Leggings",
+      "item.copperpack.cyan_wool_armor_helmet": "Cyan Wool Helmet",
+      "item.copperpack.green_sword": "Green Sword",
+      "item.copperpack.copper_armor_chestplate": "Copper Chestplate",
+      "item.copperpack.sliver_axe": "Sliver Axe",
+      "item.copperpack.woal_dust": "Woal",
+      "item.copperpack.scopinda_sword": "Scopinda Sword",
+      "item.copperpack.bludy_shovel": "Bludy Shovel",
+      "advancements.armor_wool_boots.descr": "Perfect stuff for go outside with winter",
+      "item.copperpack.giron_shovel": "Giron Shovel",
+      "item.copperpack.dusttin_sword": "Dusttin Sword",
+      "item.copperpack.white_wool_armor_helmet": "White Wool Helmet",
+      "item.copperpack.goldy_sword": "Goldy Sword",
+      "item.copperpack.icoly_armor_boots": "Icoly Boots",
+      "item.copperpack.diagot_ingot": "Diagot",
+      "item.copperpack.magenta_pickaxe": "Magenta Pickaxe",
+      "item.copperpack.coady_armor_boots": "Coady Boots",
+      "item.copperpack.diagot_shovel": "Diagot Shovel",
+      "item.copperpack.black_wool_armor_leggings": "Black Wool Leggings",
+      "block.copperpack.goldy_ore": "Goldy Ore",
+      "item.copperpack.lenon_armor_boots": "Lenon Boots",
+      "item.minecraft.tipped_arrow.effect.lazy_potion": "Arrow of Lazy Potion",
+      "item.copperpack.coady_armor_leggings": "Coady Leggings",
+      "advancements.armor_wool_legging.title": "Armor Wool Legging",
+      "item.copperpack.coady_shovel": "Coady Shovel",
+      "item.copperpack.lenon_armor_helmet": "Lenon Helmet",
+      "item.copperpack.blue_wool_armor_leggings": "Blue Wool Leggings",
+      "itemGroup.tabcopper_pack_misc": "Copper Pack Misc",
+      "item.copperpack.magenta": "Magenta",
+      "item.copperpack.green_armor_chestplate": "Green Chestplate",
+      "block.copperpack.polozo_ore": "Polozo Ore",
+      "advancements.armor_wool_body.title": "Armor Wool Body",
+      "item.copperpack.blue_wool_armor_chestplate": "Blue Wool Chestplate",
+      "item.copperpack.magenta_hoe": "Magenta Hoe",
+      "item.copperpack.goim_sword": "Goim Sword",
+      "block.copperpack.bludy_block": "Block of Bludy",
+      "item.copperpack.lazy_item": "Lazy Item",
+      "item.copperpack.icoly_sword": "Icoly Sword",
+      "item.copperpack.white_wool_armor_leggings": "White Wool Leggings",
+      "item.copperpack.coppy_armor_helmet": "Coppy Helmet",
+      "item.copperpack.polozo_ingot": "Polozo",
+      "item.copperpack.goim_shovel": "Goim Shovel",
+      "item.copperpack.magenta_armor_leggings": "Magenta Leggings",
+      "item.copperpack.green_armor_leggings": "Green Leggings",
+      "item.minecraft.lingering_potion.effect.super_health_potion": "Lingering Potion of Super Health Potion",
+      "advancements.armor_log_boots.descr": "Help project your foot",
+      "item.copperpack.cyan_wool_armor_chestplate": "Cyan Wool Chestplate",
+      "item.copperpack.coady_ingot": "Coady"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Stuff",
+        "children": [
+          {
+            "name": "Copper",
+            "children": []
+          },
+          {
+            "name": "Sliver",
+            "children": []
+          },
+          {
+            "name": "Dusttin",
+            "children": []
+          },
+          {
+            "name": "Wool",
+            "children": [
+              {
+                "name": "white",
+                "children": []
+              },
+              {
+                "name": "orange",
+                "children": []
+              },
+              {
+                "name": "Magenta",
+                "children": []
+              },
+              {
+                "name": "Light Blue",
+                "children": []
+              },
+              {
+                "name": "yellow",
+                "children": []
+              },
+              {
+                "name": "lime",
+                "children": []
+              },
+              {
+                "name": "pink",
+                "children": []
+              },
+              {
+                "name": "gray",
+                "children": []
+              },
+              {
+                "name": "light gray",
+                "children": []
+              },
+              {
+                "name": "cyan",
+                "children": []
+              },
+              {
+                "name": "purple",
+                "children": []
+              },
+              {
+                "name": "blue",
+                "children": []
+              },
+              {
+                "name": "brown",
+                "children": []
+              },
+              {
+                "name": "green",
+                "children": []
+              },
+              {
+                "name": "red",
+                "children": []
+              },
+              {
+                "name": "black",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Wood",
+            "children": []
+          },
+          {
+            "name": "Magenta",
+            "children": []
+          },
+          {
+            "name": "Goldy",
+            "children": []
+          },
+          {
+            "name": "Bludy",
+            "children": []
+          },
+          {
+            "name": "Redust",
+            "children": []
+          },
+          {
+            "name": "Coppy",
+            "children": []
+          },
+          {
+            "name": "Diagot",
+            "children": []
+          },
+          {
+            "name": "Green",
+            "children": []
+          },
+          {
+            "name": "Coady",
+            "children": []
+          },
+          {
+            "name": "achievements",
+            "children": [
+              {
+                "name": "Armor",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Lenon",
+            "children": []
+          },
+          {
+            "name": "Icoly",
+            "children": []
+          },
+          {
+            "name": "Goim",
+            "children": []
+          },
+          {
+            "name": "Reddy",
+            "children": []
+          },
+          {
+            "name": "Woal",
+            "children": []
+          },
+          {
+            "name": "Blacky",
+            "children": []
+          },
+          {
+            "name": "GreeDust",
+            "children": []
+          },
+          {
+            "name": "Polozo",
+            "children": []
+          },
+          {
+            "name": "Giron",
+            "children": []
+          },
+          {
+            "name": "Scopinda",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Gui",
+        "children": []
+      },
+      {
+        "name": "Plants",
+        "children": []
+      },
+      {
+        "name": "Potions",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "copperpack",
+    "modName": "CopperPack",
+    "version": "1.0.0",
+    "author": "hoanghuy, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "com.huyth.copperpack",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

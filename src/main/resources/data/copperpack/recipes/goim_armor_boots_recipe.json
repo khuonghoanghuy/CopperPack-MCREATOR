@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:goim"
+    },
+    "2": {
+      "item": "copperpack:goim"
+    },
+    "3": {
+      "item": "copperpack:goim"
+    },
+    "5": {
+      "item": "copperpack:goim"
+    }
+  },
+  "result": {
+    "item": "copperpack:goim_armor_boots",
+    "count": 1
+  }
+}

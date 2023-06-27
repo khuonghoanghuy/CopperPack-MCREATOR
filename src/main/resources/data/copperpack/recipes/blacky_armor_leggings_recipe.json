@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:blacky"
+    },
+    "1": {
+      "item": "copperpack:blacky"
+    },
+    "2": {
+      "item": "copperpack:blacky"
+    },
+    "3": {
+      "item": "copperpack:blacky"
+    },
+    "5": {
+      "item": "copperpack:blacky"
+    },
+    "6": {
+      "item": "copperpack:blacky"
+    },
+    "8": {
+      "item": "copperpack:blacky"
+    }
+  },
+  "result": {
+    "item": "copperpack:blacky_armor_leggings",
+    "count": 1
+  }
+}

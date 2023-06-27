@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:gree_dust"
+    },
+    "1": {
+      "item": "copperpack:gree_dust"
+    },
+    "2": {
+      "item": "copperpack:gree_dust"
+    },
+    "3": {
+      "item": "copperpack:gree_dust"
+    },
+    "5": {
+      "item": "copperpack:gree_dust"
+    },
+    "6": {
+      "item": "copperpack:gree_dust"
+    },
+    "8": {
+      "item": "copperpack:gree_dust"
+    }
+  },
+  "result": {
+    "item": "copperpack:gree_armor_leggings",
+    "count": 1
+  }
+}

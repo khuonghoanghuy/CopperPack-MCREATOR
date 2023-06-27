@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "copperpack:diagot_block"
+    }
+  ],
+  "result": {
+    "item": "copperpack:diagot_ingot",
+    "count": 9
+  }
+}

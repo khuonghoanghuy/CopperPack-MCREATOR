@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:bludy_ingot"
+    },
+    "2": {
+      "item": "copperpack:bludy_ingot"
+    },
+    "3": {
+      "item": "copperpack:bludy_ingot"
+    },
+    "4": {
+      "item": "copperpack:bludy_ingot"
+    },
+    "5": {
+      "item": "copperpack:bludy_ingot"
+    },
+    "6": {
+      "item": "copperpack:bludy_ingot"
+    },
+    "7": {
+      "item": "copperpack:bludy_ingot"
+    },
+    "8": {
+      "item": "copperpack:bludy_ingot"
+    }
+  },
+  "result": {
+    "item": "copperpack:bludy_armor_chestplate",
+    "count": 1
+  }
+}

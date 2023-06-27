@@ -1,0 +1,21 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Super Health Potion",
+    "splashName": "Splash Potion of Super Health Potion",
+    "lingeringName": "Lingering Potion of Super Health Potion",
+    "arrowName": "Arrow of Super Health Potion",
+    "effects": [
+      {
+        "effect": {
+          "value": "INSTANT_HEALTH"
+        },
+        "duration": 800,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

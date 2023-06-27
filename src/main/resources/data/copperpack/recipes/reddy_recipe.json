@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    " 4 ",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "copperpack:redust_dust"
+    },
+    "2": {
+      "item": "copperpack:redust_dust"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "6": {
+      "item": "copperpack:reddy_ingot"
+    },
+    "7": {
+      "item": "copperpack:reddy_ingot"
+    }
+  },
+  "result": {
+    "item": "copperpack:reddy_dimension",
+    "count": 1
+  }
+}

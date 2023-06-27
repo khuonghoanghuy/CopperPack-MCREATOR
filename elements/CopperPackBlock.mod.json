@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Copper Pack Block",
+    "icon": {
+      "value": "CUSTOM:CopperBlock"
+    },
+    "showSearch": false
+  }
+}

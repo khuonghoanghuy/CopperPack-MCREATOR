@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "copperpack:green_block"
+    }
+  ],
+  "result": {
+    "item": "copperpack:green",
+    "count": 9
+  }
+}

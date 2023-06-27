@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:magenta"
+    },
+    "1": {
+      "item": "copperpack:magenta"
+    },
+    "2": {
+      "item": "copperpack:magenta"
+    },
+    "3": {
+      "item": "copperpack:magenta"
+    },
+    "5": {
+      "item": "copperpack:magenta"
+    },
+    "6": {
+      "item": "copperpack:magenta"
+    },
+    "8": {
+      "item": "copperpack:magenta"
+    }
+  },
+  "result": {
+    "item": "copperpack:magenta_armor_leggings",
+    "count": 1
+  }
+}

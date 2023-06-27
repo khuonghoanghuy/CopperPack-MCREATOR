@@ -1,0 +1,42 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:WoolBiome"
+      }
+    ],
+    "worldGenType": "End like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.WOOL#5"
+    },
+    "fluidBlock": {
+      "value": "Blocks.WOOL#11"
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "DENY",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.WOOL#0"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 4,
+    "portalSound": {
+      "value": ""
+    },
+    "igniterName": "Wool Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:CopperPackPortalIgniter"
+    },
+    "texture": "wool_portal",
+    "portalTexture": "wool_portal",
+    "enablePortal": true
+  }
+}

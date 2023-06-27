@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "copperpack:goldy_block"
+    }
+  ],
+  "result": {
+    "item": "copperpack:goldy_ingot",
+    "count": 9
+  }
+}

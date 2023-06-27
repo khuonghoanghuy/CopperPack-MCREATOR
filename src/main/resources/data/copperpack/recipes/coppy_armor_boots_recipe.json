@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:coppy"
+    },
+    "2": {
+      "item": "copperpack:coppy"
+    },
+    "3": {
+      "item": "copperpack:coppy"
+    },
+    "5": {
+      "item": "copperpack:coppy"
+    }
+  },
+  "result": {
+    "item": "copperpack:coppy_armor_boots",
+    "count": 1
+  }
+}

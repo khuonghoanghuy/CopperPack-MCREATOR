@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:dusttin_dust"
+    },
+    "1": {
+      "item": "copperpack:dusttin_dust"
+    },
+    "2": {
+      "item": "copperpack:dusttin_dust"
+    },
+    "3": {
+      "item": "copperpack:dusttin_dust"
+    },
+    "4": {
+      "item": "copperpack:dusttin_dust"
+    },
+    "5": {
+      "item": "copperpack:dusttin_dust"
+    },
+    "6": {
+      "item": "copperpack:dusttin_dust"
+    },
+    "7": {
+      "item": "copperpack:dusttin_dust"
+    },
+    "8": {
+      "item": "copperpack:dusttin_dust"
+    }
+  },
+  "result": {
+    "item": "copperpack:dusttin_block",
+    "count": 1
+  }
+}

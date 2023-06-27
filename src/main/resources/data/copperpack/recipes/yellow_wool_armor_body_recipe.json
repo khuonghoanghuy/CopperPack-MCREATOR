@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:yellow_wool"
+    },
+    "2": {
+      "item": "minecraft:yellow_wool"
+    },
+    "3": {
+      "item": "minecraft:yellow_wool"
+    },
+    "4": {
+      "item": "minecraft:yellow_wool"
+    },
+    "5": {
+      "item": "minecraft:yellow_wool"
+    },
+    "6": {
+      "item": "minecraft:yellow_wool"
+    },
+    "7": {
+      "item": "minecraft:yellow_wool"
+    },
+    "8": {
+      "item": "minecraft:yellow_wool"
+    }
+  },
+  "result": {
+    "item": "copperpack:yellow_wool_armor_chestplate",
+    "count": 1
+  }
+}

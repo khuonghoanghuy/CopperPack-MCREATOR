@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:scopinda"
+    },
+    "1": {
+      "item": "copperpack:scopinda"
+    },
+    "2": {
+      "item": "copperpack:scopinda"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "copperpack:scopinda_axe",
+    "count": 1
+  }
+}

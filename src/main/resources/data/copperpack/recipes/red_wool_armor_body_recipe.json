@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:red_wool"
+    },
+    "2": {
+      "item": "minecraft:red_wool"
+    },
+    "3": {
+      "item": "minecraft:red_wool"
+    },
+    "4": {
+      "item": "minecraft:red_wool"
+    },
+    "5": {
+      "item": "minecraft:red_wool"
+    },
+    "6": {
+      "item": "minecraft:red_wool"
+    },
+    "7": {
+      "item": "minecraft:red_wool"
+    },
+    "8": {
+      "item": "minecraft:red_wool"
+    }
+  },
+  "result": {
+    "item": "copperpack:red_wool_armor_chestplate",
+    "count": 1
+  }
+}

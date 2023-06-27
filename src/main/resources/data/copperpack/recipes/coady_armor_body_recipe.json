@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:coady_ingot"
+    },
+    "2": {
+      "item": "copperpack:coady_ingot"
+    },
+    "3": {
+      "item": "copperpack:coady_ingot"
+    },
+    "4": {
+      "item": "copperpack:coady_ingot"
+    },
+    "5": {
+      "item": "copperpack:coady_ingot"
+    },
+    "6": {
+      "item": "copperpack:coady_ingot"
+    },
+    "7": {
+      "item": "copperpack:coady_ingot"
+    },
+    "8": {
+      "item": "copperpack:coady_ingot"
+    }
+  },
+  "result": {
+    "item": "copperpack:coady_armor_chestplate",
+    "count": 1
+  }
+}

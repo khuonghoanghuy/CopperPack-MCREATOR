@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "copperpack:reddy_block"
+    }
+  ],
+  "result": {
+    "item": "copperpack:reddy_ingot",
+    "count": 9
+  }
+}

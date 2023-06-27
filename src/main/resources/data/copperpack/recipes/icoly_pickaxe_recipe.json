@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:icoly"
+    },
+    "1": {
+      "item": "copperpack:icoly"
+    },
+    "2": {
+      "item": "copperpack:icoly"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "copperpack:icoly_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "copperpack:blocks/coppy_ore",
+    "particle": "copperpack:blocks/coppy_ore"
+  }
+}

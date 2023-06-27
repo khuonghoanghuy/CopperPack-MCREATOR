@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:magenta"
+    },
+    "1": {
+      "item": "copperpack:magenta"
+    },
+    "2": {
+      "item": "copperpack:magenta"
+    },
+    "3": {
+      "item": "copperpack:magenta"
+    },
+    "4": {
+      "item": "copperpack:magenta"
+    },
+    "5": {
+      "item": "copperpack:magenta"
+    },
+    "6": {
+      "item": "copperpack:magenta"
+    },
+    "7": {
+      "item": "copperpack:magenta"
+    },
+    "8": {
+      "item": "copperpack:magenta"
+    }
+  },
+  "result": {
+    "item": "copperpack:magenta_block",
+    "count": 1
+  }
+}

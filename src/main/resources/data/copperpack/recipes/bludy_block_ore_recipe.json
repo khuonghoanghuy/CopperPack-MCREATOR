@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "copperpack:bludy_block"
+    }
+  ],
+  "result": {
+    "item": "copperpack:bludy_ingot",
+    "count": 9
+  }
+}

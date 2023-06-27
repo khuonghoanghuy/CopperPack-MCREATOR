@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.9099999999999999,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "copperpack:magenta_ore"
+  },
+  "result": {
+    "item": "copperpack:magenta"
+  }
+}

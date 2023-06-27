@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:gree_dust"
+    },
+    "1": {
+      "item": "copperpack:gree_dust"
+    },
+    "2": {
+      "item": "copperpack:gree_dust"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "copperpack:gree_axe",
+    "count": 1
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "lenon_head",
+    "enableBody": true,
+    "textureBody": "lenon_body",
+    "enableLeggings": true,
+    "textureLeggings": "lenon_leggings",
+    "enableBoots": true,
+    "textureBoots": "lenon_boots",
+    "creativeTab": {
+      "value": "CUSTOM:CopperPackArmor"
+    },
+    "armorTextureFile": "lenon",
+    "helmetName": "Lenon Helmet",
+    "bodyName": "Lenon Chestplate",
+    "leggingsName": "Lenon Leggings",
+    "bootsName": "Lenon Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 29,
+    "damageValueHelmet": 4,
+    "damageValueBody": 10,
+    "damageValueLeggings": 11,
+    "damageValueBoots": 4,
+    "enchantability": 17,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:LenonDust"
+      }
+    ]
+  }
+}

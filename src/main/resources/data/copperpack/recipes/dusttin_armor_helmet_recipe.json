@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:dusttin_dust"
+    },
+    "1": {
+      "item": "copperpack:dusttin_dust"
+    },
+    "2": {
+      "item": "copperpack:dusttin_dust"
+    },
+    "3": {
+      "item": "copperpack:dusttin_dust"
+    },
+    "5": {
+      "item": "copperpack:dusttin_dust"
+    }
+  },
+  "result": {
+    "item": "copperpack:dusttin_armor_helmet",
+    "count": 1
+  }
+}

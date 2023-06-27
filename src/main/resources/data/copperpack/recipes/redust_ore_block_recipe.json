@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:redust_dust"
+    },
+    "1": {
+      "item": "copperpack:redust_dust"
+    },
+    "2": {
+      "item": "copperpack:redust_dust"
+    },
+    "3": {
+      "item": "copperpack:redust_dust"
+    },
+    "4": {
+      "item": "copperpack:redust_dust"
+    },
+    "5": {
+      "item": "copperpack:redust_dust"
+    },
+    "6": {
+      "item": "copperpack:redust_dust"
+    },
+    "7": {
+      "item": "copperpack:redust_dust"
+    },
+    "8": {
+      "item": "copperpack:redust_dust"
+    }
+  },
+  "result": {
+    "item": "copperpack:redust_block",
+    "count": 1
+  }
+}

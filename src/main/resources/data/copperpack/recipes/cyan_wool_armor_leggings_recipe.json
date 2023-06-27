@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cyan_wool"
+    },
+    "1": {
+      "item": "minecraft:cyan_wool"
+    },
+    "2": {
+      "item": "minecraft:cyan_wool"
+    },
+    "3": {
+      "item": "minecraft:cyan_wool"
+    },
+    "5": {
+      "item": "minecraft:cyan_wool"
+    },
+    "6": {
+      "item": "minecraft:cyan_wool"
+    },
+    "8": {
+      "item": "minecraft:cyan_wool"
+    }
+  },
+  "result": {
+    "item": "copperpack:cyan_wool_armor_leggings",
+    "count": 1
+  }
+}

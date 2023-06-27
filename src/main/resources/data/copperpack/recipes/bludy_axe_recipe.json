@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:bludy_ingot"
+    },
+    "1": {
+      "item": "copperpack:bludy_ingot"
+    },
+    "2": {
+      "item": "copperpack:bludy_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "copperpack:bludy_axe",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:giron_ingot"
+    },
+    "2": {
+      "item": "copperpack:giron_ingot"
+    },
+    "3": {
+      "item": "copperpack:giron_ingot"
+    },
+    "5": {
+      "item": "copperpack:giron_ingot"
+    }
+  },
+  "result": {
+    "item": "copperpack:giron_armor_boots",
+    "count": 1
+  }
+}

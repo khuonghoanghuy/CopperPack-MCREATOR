@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:blacky"
+    },
+    "1": {
+      "item": "copperpack:blacky"
+    },
+    "2": {
+      "item": "copperpack:blacky"
+    },
+    "3": {
+      "item": "copperpack:blacky"
+    },
+    "5": {
+      "item": "copperpack:blacky"
+    }
+  },
+  "result": {
+    "item": "copperpack:blacky_armor_helmet",
+    "count": 1
+  }
+}

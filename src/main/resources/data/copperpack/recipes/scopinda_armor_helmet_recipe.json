@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:scopinda"
+    },
+    "1": {
+      "item": "copperpack:scopinda"
+    },
+    "2": {
+      "item": "copperpack:scopinda"
+    },
+    "3": {
+      "item": "copperpack:scopinda"
+    },
+    "5": {
+      "item": "copperpack:scopinda"
+    }
+  },
+  "result": {
+    "item": "copperpack:scopinda_armor_helmet",
+    "count": 1
+  }
+}

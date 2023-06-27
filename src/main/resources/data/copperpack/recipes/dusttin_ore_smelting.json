@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "copperpack:dusttin_ore"
+  },
+  "result": {
+    "item": "copperpack:dusttin_dust"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:woal_dust"
+    },
+    "1": {
+      "item": "copperpack:woal_dust"
+    },
+    "2": {
+      "item": "copperpack:woal_dust"
+    },
+    "3": {
+      "item": "copperpack:woal_dust"
+    },
+    "5": {
+      "item": "copperpack:woal_dust"
+    }
+  },
+  "result": {
+    "item": "copperpack:woal_armor_helmet",
+    "count": 1
+  }
+}

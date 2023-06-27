@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "scopinda_hoe",
+    "customModelName": "Normal",
+    "name": "Scopinda Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:CopperPackTools"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 7,
+    "efficiency": 13.0,
+    "attackSpeed": 1.0,
+    "enchantability": 49,
+    "damageVsEntity": 7.0,
+    "usageCount": 1444,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Scopinda"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

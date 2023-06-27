@@ -1,0 +1,21 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Healthy Potions",
+    "splashName": "Splash Potion of Healthy Potions",
+    "lingeringName": "Lingering Potion of Healthy Potions",
+    "arrowName": "Arrow of Healthy Potions",
+    "effects": [
+      {
+        "effect": {
+          "value": "INSTANT_HEALTH"
+        },
+        "duration": 5200,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

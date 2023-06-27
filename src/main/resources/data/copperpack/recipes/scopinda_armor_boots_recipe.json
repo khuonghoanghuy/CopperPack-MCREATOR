@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:scopinda"
+    },
+    "2": {
+      "item": "copperpack:scopinda"
+    },
+    "3": {
+      "item": "copperpack:scopinda"
+    },
+    "5": {
+      "item": "copperpack:scopinda"
+    }
+  },
+  "result": {
+    "item": "copperpack:scopinda_armor_boots",
+    "count": 1
+  }
+}

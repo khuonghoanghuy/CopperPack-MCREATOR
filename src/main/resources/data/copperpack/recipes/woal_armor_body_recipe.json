@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:woal_dust"
+    },
+    "2": {
+      "item": "copperpack:woal_dust"
+    },
+    "3": {
+      "item": "copperpack:woal_dust"
+    },
+    "4": {
+      "item": "copperpack:woal_dust"
+    },
+    "5": {
+      "item": "copperpack:woal_dust"
+    },
+    "6": {
+      "item": "copperpack:woal_dust"
+    },
+    "7": {
+      "item": "copperpack:woal_dust"
+    },
+    "8": {
+      "item": "copperpack:woal_dust"
+    }
+  },
+  "result": {
+    "item": "copperpack:woal_armor_chestplate",
+    "count": 1
+  }
+}

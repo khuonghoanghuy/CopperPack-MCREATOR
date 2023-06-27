@@ -1,0 +1,57 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Lazy Potion",
+    "splashName": "Splash Potion of Lazy Potion",
+    "lingeringName": "Lingering Potion of Lazy Potion",
+    "arrowName": "Arrow of Lazy Potion",
+    "effects": [
+      {
+        "effect": {
+          "value": "SLOWNESS"
+        },
+        "duration": 6800,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "SPEED"
+        },
+        "duration": 1000,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "HASTE"
+        },
+        "duration": 1200,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "MINING_FATIGUE"
+        },
+        "duration": 700,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      },
+      {
+        "effect": {
+          "value": "STRENGTH"
+        },
+        "duration": 700,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

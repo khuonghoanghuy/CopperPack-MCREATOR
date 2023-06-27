@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:pink_wool"
+    },
+    "2": {
+      "item": "minecraft:pink_wool"
+    },
+    "3": {
+      "item": "minecraft:pink_wool"
+    },
+    "4": {
+      "item": "minecraft:pink_wool"
+    },
+    "5": {
+      "item": "minecraft:pink_wool"
+    },
+    "6": {
+      "item": "minecraft:pink_wool"
+    },
+    "7": {
+      "item": "minecraft:pink_wool"
+    },
+    "8": {
+      "item": "minecraft:pink_wool"
+    }
+  },
+  "result": {
+    "item": "copperpack:pink_wool_armor_chestplate",
+    "count": 1
+  }
+}

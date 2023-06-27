@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "copperpack:block/reddy_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "copperpack:block/reddy_dimension_portal_ns"
+    }
+  }
+}

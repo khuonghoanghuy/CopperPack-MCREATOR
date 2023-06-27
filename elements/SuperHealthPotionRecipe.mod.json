@@ -1,0 +1,23 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Brewing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "POTION:CUSTOM:HealthyPotions"
+    },
+    "brewingIngredientStack": {
+      "value": "CUSTOM:HealthyItem"
+    },
+    "brewingReturnStack": {
+      "value": "POTION:CUSTOM:SuperHealthPotion"
+    },
+    "name": "super_health_potion_recipe",
+    "namespace": "mod"
+  }
+}

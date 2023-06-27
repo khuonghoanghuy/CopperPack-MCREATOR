@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:goim"
+    },
+    "1": {
+      "item": "copperpack:goim"
+    },
+    "2": {
+      "item": "copperpack:goim"
+    },
+    "3": {
+      "item": "copperpack:goim"
+    },
+    "4": {
+      "item": "copperpack:goim"
+    },
+    "5": {
+      "item": "copperpack:goim"
+    },
+    "6": {
+      "item": "copperpack:goim"
+    },
+    "7": {
+      "item": "copperpack:goim"
+    },
+    "8": {
+      "item": "copperpack:goim"
+    }
+  },
+  "result": {
+    "item": "copperpack:goim_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "copperpack:giron_block"
+    }
+  ],
+  "result": {
+    "item": "copperpack:giron_ingot",
+    "count": 9
+  }
+}

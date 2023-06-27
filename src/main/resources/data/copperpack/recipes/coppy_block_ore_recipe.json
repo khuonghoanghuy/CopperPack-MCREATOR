@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "copperpack:coppy_block"
+    }
+  ],
+  "result": {
+    "item": "copperpack:coppy",
+    "count": 9
+  }
+}

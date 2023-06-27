@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "copperpack:blocks/scopinda_ore_block",
+    "particle": "copperpack:blocks/scopinda_ore_block"
+  }
+}

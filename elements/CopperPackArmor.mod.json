@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Copper Pack Armor",
+    "icon": {
+      "value": "CUSTOM:CopperArmor.body"
+    },
+    "showSearch": false
+  }
+}

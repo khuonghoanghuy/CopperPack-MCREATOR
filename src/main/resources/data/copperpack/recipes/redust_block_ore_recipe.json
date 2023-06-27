@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "copperpack:redust_block"
+    }
+  ],
+  "result": {
+    "item": "copperpack:redust_dust",
+    "count": 9
+  }
+}

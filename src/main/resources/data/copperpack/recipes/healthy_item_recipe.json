@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    " 4 ",
+    "  8"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:small_flowers"
+    },
+    "4": {
+      "item": "copperpack:healthy_flower"
+    },
+    "8": {
+      "tag": "minecraft:small_flowers"
+    }
+  },
+  "result": {
+    "item": "copperpack:healthy_item",
+    "count": 1
+  }
+}

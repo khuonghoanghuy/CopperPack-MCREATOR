@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "copperpack:white_wool_armor_boots"
+    },
+    "title": {
+      "translate": "advancements.armor_wool_boots.title"
+    },
+    "description": {
+      "translate": "advancements.armor_wool_boots.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "armor_wool_boots": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "copperpack:white_wool_armor_boots"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "copperpack:armor_log_boots"
+}

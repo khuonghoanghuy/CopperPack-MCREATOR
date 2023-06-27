@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 1.6099999999999999,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "copperpack:reddy_ore"
+  },
+  "result": {
+    "item": "copperpack:reddy_ingot"
+  }
+}

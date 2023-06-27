@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:lenon_dust"
+    },
+    "2": {
+      "item": "copperpack:lenon_dust"
+    },
+    "3": {
+      "item": "copperpack:lenon_dust"
+    },
+    "4": {
+      "item": "copperpack:lenon_dust"
+    },
+    "5": {
+      "item": "copperpack:lenon_dust"
+    },
+    "6": {
+      "item": "copperpack:lenon_dust"
+    },
+    "7": {
+      "item": "copperpack:lenon_dust"
+    },
+    "8": {
+      "item": "copperpack:lenon_dust"
+    }
+  },
+  "result": {
+    "item": "copperpack:lenon_armor_chestplate",
+    "count": 1
+  }
+}

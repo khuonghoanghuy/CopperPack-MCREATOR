@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:green"
+    },
+    "2": {
+      "item": "copperpack:green"
+    },
+    "3": {
+      "item": "copperpack:green"
+    },
+    "4": {
+      "item": "copperpack:green"
+    },
+    "5": {
+      "item": "copperpack:green"
+    },
+    "6": {
+      "item": "copperpack:green"
+    },
+    "7": {
+      "item": "copperpack:green"
+    },
+    "8": {
+      "item": "copperpack:green"
+    }
+  },
+  "result": {
+    "item": "copperpack:green_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 "
+  ],
+  "key": {
+    "1": {
+      "item": "copperpack:gree_da"
+    },
+    "2": {
+      "item": "minecraft:shears"
+    }
+  },
+  "result": {
+    "item": "copperpack:gree_plab",
+    "count": 2
+  }
+}

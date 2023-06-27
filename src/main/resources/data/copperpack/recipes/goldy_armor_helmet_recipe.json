@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:goldy_ingot"
+    },
+    "1": {
+      "item": "copperpack:goldy_ingot"
+    },
+    "2": {
+      "item": "copperpack:goldy_ingot"
+    },
+    "3": {
+      "item": "copperpack:goldy_ingot"
+    },
+    "5": {
+      "item": "copperpack:goldy_ingot"
+    }
+  },
+  "result": {
+    "item": "copperpack:goldy_armor_helmet",
+    "count": 1
+  }
+}

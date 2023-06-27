@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:sliver_ingot"
+    },
+    "1": {
+      "item": "copperpack:sliver_ingot"
+    },
+    "2": {
+      "item": "copperpack:sliver_ingot"
+    },
+    "3": {
+      "item": "copperpack:sliver_ingot"
+    },
+    "5": {
+      "item": "copperpack:sliver_ingot"
+    }
+  },
+  "result": {
+    "item": "copperpack:sliver_armor_helmet",
+    "count": 1
+  }
+}

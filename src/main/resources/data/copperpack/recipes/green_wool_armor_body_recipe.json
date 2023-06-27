@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:green_wool"
+    },
+    "2": {
+      "item": "minecraft:green_wool"
+    },
+    "3": {
+      "item": "minecraft:green_wool"
+    },
+    "4": {
+      "item": "minecraft:green_wool"
+    },
+    "5": {
+      "item": "minecraft:green_wool"
+    },
+    "6": {
+      "item": "minecraft:green_wool"
+    },
+    "7": {
+      "item": "minecraft:green_wool"
+    },
+    "8": {
+      "item": "minecraft:green_wool"
+    }
+  },
+  "result": {
+    "item": "copperpack:green_wool_armor_chestplate",
+    "count": 1
+  }
+}

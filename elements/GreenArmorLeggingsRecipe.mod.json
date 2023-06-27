@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Green"
+      },
+      {
+        "value": "CUSTOM:Green"
+      },
+      {
+        "value": "CUSTOM:Green"
+      },
+      {
+        "value": "CUSTOM:Green"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Green"
+      },
+      {
+        "value": "CUSTOM:Green"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Green"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GreenArmor.legs"
+    },
+    "name": "green_armor_leggings_recipe",
+    "namespace": "mod"
+  }
+}

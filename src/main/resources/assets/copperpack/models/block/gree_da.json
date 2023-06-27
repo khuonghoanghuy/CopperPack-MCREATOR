@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "copperpack:blocks/greeda",
+    "particle": "copperpack:blocks/greeda"
+  }
+}

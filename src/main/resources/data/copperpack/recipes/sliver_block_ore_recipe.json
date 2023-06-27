@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "copperpack:sliver_block"
+    }
+  ],
+  "result": {
+    "item": "copperpack:sliver_ingot",
+    "count": 9
+  }
+}

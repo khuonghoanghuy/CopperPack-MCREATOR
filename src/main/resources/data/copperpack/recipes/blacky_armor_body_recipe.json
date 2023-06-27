@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:blacky"
+    },
+    "2": {
+      "item": "copperpack:blacky"
+    },
+    "3": {
+      "item": "copperpack:blacky"
+    },
+    "4": {
+      "item": "copperpack:blacky"
+    },
+    "5": {
+      "item": "copperpack:blacky"
+    },
+    "6": {
+      "item": "copperpack:blacky"
+    },
+    "7": {
+      "item": "copperpack:blacky"
+    },
+    "8": {
+      "item": "copperpack:blacky"
+    }
+  },
+  "result": {
+    "item": "copperpack:blacky_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "copperpack:magenta_block"
+    }
+  ],
+  "result": {
+    "item": "copperpack:magenta",
+    "count": 9
+  }
+}
