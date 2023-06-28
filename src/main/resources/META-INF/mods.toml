@@ -4,11 +4,14 @@ license="Academic Free License v3.0"
 
 [[mods]]
 modId="copperpack"
-version="1.0.0"
+version="0.1"
 displayName="CopperPack"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
 authors="hoanghuy, MCreator"
+description='''
+A normal modpack
+'''
 
 [[dependencies.copperpack]]
     modId="minecraft"
