@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bandi_axe",
+    "customModelName": "Normal",
+    "name": "Bandi Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:CopperPackTools"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 7,
+    "efficiency": 13.0,
+    "attackSpeed": 1.0,
+    "enchantability": 52,
+    "damageVsEntity": 33.0,
+    "usageCount": 1561,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:BandiDust"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

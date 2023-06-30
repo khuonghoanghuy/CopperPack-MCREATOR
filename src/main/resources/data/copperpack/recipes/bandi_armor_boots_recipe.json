@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:bandi_dust"
+    },
+    "2": {
+      "item": "copperpack:bandi_dust"
+    },
+    "3": {
+      "item": "copperpack:bandi_dust"
+    },
+    "5": {
+      "item": "copperpack:bandi_dust"
+    }
+  },
+  "result": {
+    "item": "copperpack:bandi_armor_boots",
+    "count": 1
+  }
+}

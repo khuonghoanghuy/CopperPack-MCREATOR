@@ -1,0 +1,62 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "bandi_head",
+    "enableBody": true,
+    "textureBody": "bandi_body",
+    "enableLeggings": true,
+    "textureLeggings": "bandi_leggings",
+    "enableBoots": true,
+    "textureBoots": "bandi_boots",
+    "creativeTab": {
+      "value": "CUSTOM:CopperPackArmor"
+    },
+    "armorTextureFile": "bandi",
+    "helmetName": "Bandi Helmet",
+    "bodyName": "Bandi Chestplate",
+    "leggingsName": "Bandi Leggings",
+    "bootsName": "Bandi Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 56,
+    "damageValueHelmet": 7,
+    "damageValueBody": 19,
+    "damageValueLeggings": 22,
+    "damageValueBoots": 7,
+    "enchantability": 33,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:BandiDust"
+      }
+    ]
+  }
+}

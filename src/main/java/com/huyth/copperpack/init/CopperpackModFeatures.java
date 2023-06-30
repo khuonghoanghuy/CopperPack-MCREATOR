@@ -24,6 +24,7 @@ import com.huyth.copperpack.world.features.plants.LazyFlowerFeature;
 import com.huyth.copperpack.world.features.plants.HealthyFlowerFeature;
 import com.huyth.copperpack.world.features.plants.GreeDaFeature;
 import com.huyth.copperpack.world.features.ores.WoalOreFeature;
+import com.huyth.copperpack.world.features.ores.WhistOreFeature;
 import com.huyth.copperpack.world.features.ores.SliverOreFeature;
 import com.huyth.copperpack.world.features.ores.ScopindaOreFeature;
 import com.huyth.copperpack.world.features.ores.RedustOreFeature;
@@ -43,6 +44,7 @@ import com.huyth.copperpack.world.features.ores.CopperOreFeature;
 import com.huyth.copperpack.world.features.ores.CoadyOreFeature;
 import com.huyth.copperpack.world.features.ores.BludyOreFeature;
 import com.huyth.copperpack.world.features.ores.BlackyOreFeature;
+import com.huyth.copperpack.world.features.ores.BandiOreFeature;
 
 @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD)
 public class CopperpackModFeatures {
@@ -94,6 +96,10 @@ public class CopperpackModFeatures {
 				HealthyFlowerFeature.GENERATE_BIOMES, HealthyFlowerFeature.CONFIGURED_FEATURE));
 		REGISTRY.put(ScopindaOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES,
 				ScopindaOreFeature.GENERATE_BIOMES, ScopindaOreFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(BandiOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES, BandiOreFeature.GENERATE_BIOMES,
+				BandiOreFeature.CONFIGURED_FEATURE));
+		REGISTRY.put(WhistOreFeature.FEATURE, new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES, WhistOreFeature.GENERATE_BIOMES,
+				WhistOreFeature.CONFIGURED_FEATURE));
 	}
 
 	@SubscribeEvent

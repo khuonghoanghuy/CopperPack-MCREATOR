@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:whist_ingot"
+    },
+    "1": {
+      "item": "copperpack:whist_ingot"
+    },
+    "2": {
+      "item": "copperpack:whist_ingot"
+    },
+    "3": {
+      "item": "copperpack:whist_ingot"
+    },
+    "4": {
+      "item": "copperpack:whist_ingot"
+    },
+    "5": {
+      "item": "copperpack:whist_ingot"
+    },
+    "6": {
+      "item": "copperpack:whist_ingot"
+    },
+    "7": {
+      "item": "copperpack:whist_ingot"
+    },
+    "8": {
+      "item": "copperpack:whist_ingot"
+    }
+  },
+  "result": {
+    "item": "copperpack:whist_block",
+    "count": 1
+  }
+}

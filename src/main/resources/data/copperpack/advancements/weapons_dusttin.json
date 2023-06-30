@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "copperpack:dusttin_sword"
+    },
+    "title": {
+      "translate": "advancements.weapons_dusttin.title"
+    },
+    "description": {
+      "translate": "advancements.weapons_dusttin.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "weapons_dusttin": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "copperpack:dusttin_sword"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "copperpack:weapons_sliver"
+}

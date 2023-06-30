@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "copperpack:sliver_sword"
+    },
+    "title": {
+      "translate": "advancements.weapons_sliver.title"
+    },
+    "description": {
+      "translate": "advancements.weapons_sliver.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "weapons_sliver": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "copperpack:sliver_sword"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "copperpack:weaponscopper"
+}

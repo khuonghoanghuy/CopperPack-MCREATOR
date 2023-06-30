@@ -18,6 +18,8 @@ import java.util.ArrayList;
 import com.huyth.copperpack.block.WoolDimensionPortalBlock;
 import com.huyth.copperpack.block.WoalOreBlock;
 import com.huyth.copperpack.block.WoalBlockBlock;
+import com.huyth.copperpack.block.WhistOreBlock;
+import com.huyth.copperpack.block.WhistBlockBlock;
 import com.huyth.copperpack.block.SliverOreBlock;
 import com.huyth.copperpack.block.SliverBlockBlock;
 import com.huyth.copperpack.block.ScopindaOreBlock;
@@ -60,6 +62,8 @@ import com.huyth.copperpack.block.BludyOreBlock;
 import com.huyth.copperpack.block.BludyBlockBlock;
 import com.huyth.copperpack.block.BlackyOreBlock;
 import com.huyth.copperpack.block.BlackyBlockBlock;
+import com.huyth.copperpack.block.BandiOreBlock;
+import com.huyth.copperpack.block.BandiBlockBlock;
 
 @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD)
 public class CopperpackModBlocks {
@@ -109,6 +113,10 @@ public class CopperpackModBlocks {
 	public static final Block HEALTHY_FLOWER = register(new HealthyFlowerBlock());
 	public static final Block SCOPINDA_ORE = register(new ScopindaOreBlock());
 	public static final Block SCOPINDA_BLOCK = register(new ScopindaBlockBlock());
+	public static final Block BANDI_ORE = register(new BandiOreBlock());
+	public static final Block BANDI_BLOCK = register(new BandiBlockBlock());
+	public static final Block WHIST_ORE = register(new WhistOreBlock());
+	public static final Block WHIST_BLOCK = register(new WhistBlockBlock());
 
 	private static Block register(Block block) {
 		REGISTRY.add(block);

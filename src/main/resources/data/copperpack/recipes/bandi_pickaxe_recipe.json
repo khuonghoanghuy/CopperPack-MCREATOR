@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:bandi_dust"
+    },
+    "1": {
+      "item": "copperpack:bandi_dust"
+    },
+    "2": {
+      "item": "copperpack:bandi_dust"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "copperpack:bandi_pickaxe",
+    "count": 1
+  }
+}

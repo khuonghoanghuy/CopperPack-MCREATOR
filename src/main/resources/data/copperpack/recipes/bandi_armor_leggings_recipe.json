@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "copperpack:bandi_dust"
+    },
+    "1": {
+      "item": "copperpack:bandi_dust"
+    },
+    "2": {
+      "item": "copperpack:bandi_dust"
+    },
+    "3": {
+      "item": "copperpack:bandi_dust"
+    },
+    "5": {
+      "item": "copperpack:bandi_dust"
+    },
+    "6": {
+      "item": "copperpack:bandi_dust"
+    },
+    "8": {
+      "item": "copperpack:bandi_dust"
+    }
+  },
+  "result": {
+    "item": "copperpack:bandi_armor_leggings",
+    "count": 1
+  }
+}

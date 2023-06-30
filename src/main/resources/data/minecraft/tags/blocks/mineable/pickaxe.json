@@ -40,6 +40,10 @@
     "copperpack:giron_ore",
     "copperpack:giron_block",
     "copperpack:scopinda_ore",
-    "copperpack:scopinda_block"
+    "copperpack:scopinda_block",
+    "copperpack:bandi_ore",
+    "copperpack:bandi_block",
+    "copperpack:whist_ore",
+    "copperpack:whist_block"
   ]
 }

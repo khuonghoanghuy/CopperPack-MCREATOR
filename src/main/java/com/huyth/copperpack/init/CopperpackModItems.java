@@ -26,6 +26,13 @@ import com.huyth.copperpack.item.WoalDustItem;
 import com.huyth.copperpack.item.WoalAxeItem;
 import com.huyth.copperpack.item.WoalArmorItem;
 import com.huyth.copperpack.item.White_WoolArmorItem;
+import com.huyth.copperpack.item.WhistSwordItem;
+import com.huyth.copperpack.item.WhistShovelItem;
+import com.huyth.copperpack.item.WhistPickaxeItem;
+import com.huyth.copperpack.item.WhistIngotItem;
+import com.huyth.copperpack.item.WhistHoeItem;
+import com.huyth.copperpack.item.WhistAxeItem;
+import com.huyth.copperpack.item.WhistArmorItem;
 import com.huyth.copperpack.item.SliverSwordItem;
 import com.huyth.copperpack.item.SliverShovelItem;
 import com.huyth.copperpack.item.SliverPickaxeItem;
@@ -185,6 +192,13 @@ import com.huyth.copperpack.item.BlackyHoeItem;
 import com.huyth.copperpack.item.BlackyAxeItem;
 import com.huyth.copperpack.item.BlackyArmorItem;
 import com.huyth.copperpack.item.BlackWoolArmorItem;
+import com.huyth.copperpack.item.BandiSwordItem;
+import com.huyth.copperpack.item.BandiShovelItem;
+import com.huyth.copperpack.item.BandiPickaxeItem;
+import com.huyth.copperpack.item.BandiHoeItem;
+import com.huyth.copperpack.item.BandiDustItem;
+import com.huyth.copperpack.item.BandiAxeItem;
+import com.huyth.copperpack.item.BandiArmorItem;
 
 @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD)
 public class CopperpackModItems {
@@ -515,6 +529,30 @@ public class CopperpackModItems {
 	public static final Item SCOPINDA_ARMOR_CHESTPLATE = register(new ScopindaArmorItem.Chestplate());
 	public static final Item SCOPINDA_ARMOR_LEGGINGS = register(new ScopindaArmorItem.Leggings());
 	public static final Item SCOPINDA_ARMOR_BOOTS = register(new ScopindaArmorItem.Boots());
+	public static final Item BANDI_DUST = register(new BandiDustItem());
+	public static final Item BANDI_ORE = register(CopperpackModBlocks.BANDI_ORE, CopperpackModTabs.TAB_COPPER_PACK_BLOCK);
+	public static final Item BANDI_BLOCK = register(CopperpackModBlocks.BANDI_BLOCK, CopperpackModTabs.TAB_COPPER_PACK_BLOCK);
+	public static final Item BANDI_PICKAXE = register(new BandiPickaxeItem());
+	public static final Item BANDI_AXE = register(new BandiAxeItem());
+	public static final Item BANDI_SWORD = register(new BandiSwordItem());
+	public static final Item BANDI_SHOVEL = register(new BandiShovelItem());
+	public static final Item BANDI_HOE = register(new BandiHoeItem());
+	public static final Item BANDI_ARMOR_HELMET = register(new BandiArmorItem.Helmet());
+	public static final Item BANDI_ARMOR_CHESTPLATE = register(new BandiArmorItem.Chestplate());
+	public static final Item BANDI_ARMOR_LEGGINGS = register(new BandiArmorItem.Leggings());
+	public static final Item BANDI_ARMOR_BOOTS = register(new BandiArmorItem.Boots());
+	public static final Item WHIST_INGOT = register(new WhistIngotItem());
+	public static final Item WHIST_ORE = register(CopperpackModBlocks.WHIST_ORE, CopperpackModTabs.TAB_COPPER_PACK_BLOCK);
+	public static final Item WHIST_BLOCK = register(CopperpackModBlocks.WHIST_BLOCK, CopperpackModTabs.TAB_COPPER_PACK_BLOCK);
+	public static final Item WHIST_PICKAXE = register(new WhistPickaxeItem());
+	public static final Item WHIST_AXE = register(new WhistAxeItem());
+	public static final Item WHIST_SWORD = register(new WhistSwordItem());
+	public static final Item WHIST_SHOVEL = register(new WhistShovelItem());
+	public static final Item WHIST_HOE = register(new WhistHoeItem());
+	public static final Item WHIST_ARMOR_HELMET = register(new WhistArmorItem.Helmet());
+	public static final Item WHIST_ARMOR_CHESTPLATE = register(new WhistArmorItem.Chestplate());
+	public static final Item WHIST_ARMOR_LEGGINGS = register(new WhistArmorItem.Leggings());
+	public static final Item WHIST_ARMOR_BOOTS = register(new WhistArmorItem.Boots());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);
